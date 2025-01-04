@@ -1,0 +1,17 @@
+Course title : Building LLM Applications using Prompt Engineering - Free Course.
+
+Title description : This free course offers a comprehensive guide on building LLM applications, mastering prompt engineering, implementing best practices, and developing chatbots using enterprise data using advanced techniques like few-shot or one-shot prompting.
+
+Course description : This course will provide you with a hands-on understanding of building LLM applications and mastering prompt engineering techniques. By the end of the course, you will be proficient in implementing and fine-tuning these techniques to enhance generative AI model performance. You'll learn to apply various prompting methods and build chatbots on enterprise data, equipping you with the skills to improve conversational AI systems in real-world projects.
+
+Course curriculum : How to build diffferent LLM AppIications?, Getting Started with Prompt Engineering, Understanding Different Prompt Engineering Techniques.
+
+Who should Enroll : Professionals: Individuals looking to deepen their knowledge and apply advanced LLM and prompt engineering techniques to solve complex problems across various domains. Aspiring Students: Individuals looking to deepen their knowledge and apply advanced LLM and prompt engineering techniques to solve complex problems across various domains.
+
+Instructor name : Kunal Jain.
+
+Instructor designation : Founder & CEO, Analytics Vidhya.
+
+About the instructor : Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways : Learn to effectively build and implement different LLM applications. Understand and apply few-shot, one-shot, and zero-shot prompting. Gain expertise in building chatbots using enterprise data through advanced prompt engineering methods

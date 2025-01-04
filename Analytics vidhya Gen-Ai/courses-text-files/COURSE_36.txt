@@ -1,0 +1,17 @@
+Course title : Certified Natural Language Processing Master’s Program
+
+Title description : Natural Language Processing (NLP) is the science of teaching machines how to interpret text and extract information from it. This program covers basics of Python, Machine Learning & NLP. It includes 17+ projects to prepare you for industry roles
+
+Course description : Natural Language Processing (NLP) is one of the fastest growing field within Artificial Intelligence. It enables machines to understand information contained in any text. NLP bridges the gap between the abstract but omnipresent human languages with concise and concrete programming languages. As more and more organizations invest in data - they would need NLP experts. This comprehensive program empowers you to become an NLP practitioner, even if you are a beginner and have no prior knowledge of the concepts.
+
+Course curriculum :
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : All the necessary aspects of programming with Python including libraries like Pandas, regular expressions and data structures. Pre-requisites of Statistics and Probability to help you understand Data Science and NLP from scratch. All required concepts of Data Science and Machine Learning including model building, evaluation metrics and optimisation of models. Various NLP concepts including Word embedings, TF-IDF, Topic Modeling, NER, Regular expressions. Various problems in NLP space and giving a detailed walkthrough of creating solutions for them. In-depth lectures and tutorials with techniques such as Deep Learning and tools such as Spacy.

@@ -1,0 +1,17 @@
+Course title : Building Your first RAG System using LlamaIndex - Free Course.\
+
+Title description : Dive into the sea of Retrieval Augmented Generation with this free course that will help you build your first RAG model with the popular LlamaIndex.
+
+Course description : This course will guide you through building your first Retrieval-Augmented Generation (RAG) system using LlamaIndex. You will start with data ingestion by loading a file into the system, followed by indexing the data for efficient retrieval. Next, you will set up retrieval configurations and use a response synthesizer to combine data into a coherent response. Finally, you will employ a query engine to generate responses. By the end of this course, you will have a solid understanding of these processes and be able to build an RAG system using LlamaIndex code effectively.
+
+Course curriculum : Introduction to RAG systems, Getting Started with LlamaIndex.
+
+Who should Enroll :
+
+Instructor name : Prashant Sahu.
+
+Instructor designation : Ph.D IIT Bombay; Data Science Manager, Analytics Vidhya.
+
+About the instructor : A dynamic and innovative Data Scientist who brings extensive experience in Artificial Intelligence, Machine Learning, and Advanced Analytics to the table.
+
+Key takeaways : Learn the steps involved in building a RAG system using Llamaindex. Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.

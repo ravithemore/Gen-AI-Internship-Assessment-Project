@@ -1,0 +1,15 @@
+Course title : Data Preprocessing on a Real-World Problem Statement - Free Course.
+
+Title description : Kickstarting your career in Data Science can be easy with the right guide. This free course will serve as the perfect path to help beginners navigate the complex terrain of Data Preprocessing and prepare any data for modelling.
+
+Course description : Resources to be used in this course, Introduction to Problem Statement, Reading Material - Understanding the Data, ML-workflow, Tasks to be Performed, Combining Product Attribute Data with POS Data, Combining all the tables in the Dataframe, Understanding the Combined Data, Treating Missing Values - Part 1, Treating Missing Values Part - 2, Outlier Detection and Treatment, Preparing the Dataset for Supervised and Unsupervised Models, Generative AI for Data Analysis.
+
+Course curriculum : This course will help you get a practical understanding of Data Preprocessing. After this course, you can work on any data and prepare it for modelling. With a carefully curated list of resources, this course is your first step to becoming a Data Scientist. By the end of the course, you will have mastered techniques like EDA and Missing Value Treatment.
+
+Who should Enroll : Professionals: Individuals looking to expand their skill set on data cleaning and preparation. Aspiring Students: For those setting out on their journey to become a data scientist and making a mark in the tech world.
+
+Instructor name :
+Instructor designation :
+About the instructor :
+
+Key takeaways : Learn data preprocessing tasks.Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.

@@ -1,0 +1,17 @@
+Course title : Reimagining GenAI: Common Mistakes and Best Practices for Success.
+
+Title description : Discover the Secrets to Implementing Generative AI Successfully.
+
+Course description : Generative AI is transforming industries, but implementation challenges often hinder its success. This course, led by experienced GenAI expert Shabazz Mohammed, dives deep into the pitfalls of adopting generative AI and provides actionable best practices to overcome them.Learn from real-world scenarios, understand why hi-fi demos fail in production, and gain insights into scalable, ethical, and ROI-driven AI adoption.
+
+Course curriculum : Introduction, State of GenAI in 2024, Common Mistakes, Best Practices for Success, Demo- GenAI Chatbot Alignment, Case Study- Top US Bank Co-pilot on CLO Documents.
+
+Who should Enroll : Individuals working with or exploring generative AI technologies. Executives, managers, and product owners looking to integrate generative AI into their workflows. Professionals involved in building, fine-tuning, and deploying AI systems.
+
+Instructor name : Shahebaz Mohammad.
+
+Instructor designation : Applied Machine Learning Engineer at Snorkel AI.
+
+About the instructor : Shahebaz, a Kaggle Grandmaster and LinkedIn Top ML Voice, is a Lead Applied Machine Learning Engineer at Snorkel AI. With a stellar career at Snorkel, DataRobot, SocGen, H2O.ai, and Analytics Vidhya, he has driven AI innovation and delivered impactful solutions for Fortune 500 companies and leading US banks.
+
+Key takeaways : Learn to identify and mitigate risks such as biased outputs, inefficiencies in resource usage, and ethical concerns, ensuring smooth and responsible deployment of GenAI solutions. Gain actionable insights into creating frameworks that align AI capabilities with organizational goals, enhancing productivity and delivering measurable business outcomes. Build hands-on expertise in using Generative AI effectively while maintaining data privacy, model explainability, and user trust through ethical and secure practices.

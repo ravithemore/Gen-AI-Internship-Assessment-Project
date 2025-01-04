@@ -1,0 +1,17 @@
+Course title : Creating Problem-Solving Agents using GenAI for Action Composition.
+
+Title description : Discover how Generative AI is revolutionizing Agentic AI systems to solve complex real-world problems.
+
+Course description : This introductory course provides a concise overview of Agentic AI systems, covering their evolution, current state, and practical applications. You will explore key topics including the history of Agentic AI systems, the role of agents today, multi-agent systems, and practical solutions for implementing them. Perfect for those seeking a foundational understanding of intelligent Agentic AI systems in action.
+
+Course curriculum : Introduction, Overview- Count the Number of Agents, A brief history of Agentic Systems, Agents Today, Multi-Agent Systems Today, Practical Solutions.
+
+Who should Enroll :Beginners in AI and ML looking to understand agentic systems and their real-world applications. Tech enthusiasts and developers interested in learning the basics of creating intelligent, problem-solving agents. Professionals exploring multi-agent systems for automation and dynamic task orchestration in various domains.
+
+Instructor name : Vikas Agrawal.
+
+Instructor designation : Senior Principal Data Scientist at Oracle Analytics Cloud.
+
+About the instructor : Vikas Agrawal is a Senior Principal Data Scientist at Oracle Analytics Cloud, focused on designing and deploying AI solutions across ERP, SCM, HCM, CX, and MFG for Fusion and NetSuite customers. He ensures that AI models are automatically generated, updated, and tailored to each customer's evolving data. His research involves developing intelligent agents that leverage domain knowledge to solve complex problems by combining tools and critiqued LLMs/LMMs for hypothesis generation and task orchestration. An electrical engineer turned computer scientist, Vikas is an IIT Delhi graduate with experience at CalTech, Intel, and Infosys.
+
+Key takeaways : Understand the evolution and current capabilities of agentic systems. Learn the basics of agents and multi-agent systems, including their role in solving complex problems. Gain insights into practical applications of agents and how they function in real-world scenarios.

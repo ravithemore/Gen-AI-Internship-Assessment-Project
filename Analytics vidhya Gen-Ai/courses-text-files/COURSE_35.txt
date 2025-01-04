@@ -1,0 +1,17 @@
+Course title : Certified Machine Learning Master's Program (MLMP)
+
+Title description : Take the ultimate leap from a beginner to a complete machine learning professional with Certified Machine Learning Program spanning 5+ courses including Python and advanced algorithms in ML, and 12+ real-life projects.
+
+Course description :This is a comprehensive program to make you a machine learning professional by focusing on the key components that make you industry ready. Here is the skillset we are focusing on to build in this program: Structured thinking mindset to tackle data science challenges. Learn the most popular language to work with Structured and Unstructured Data. The most common language in the machine learning world to extract data – SQL. Learn the art of exploratory data analysis to extract valuable insights. Use simple and advanced time series forecasting models for deep learning. Explore recommender systems and its applications in the industry. Master machine learning algorithms end-to-end. Deploy Machine Learning models into production. Work on plenty of machine learning projects to enhance your industry value. Methods to explain Machine Learning model to your customer.
+
+Course curriculum :
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Applied Machine Learning,Time Series Forecasting and Recommender Systems. Structured Thinking and SQL. Ace Data Science Interviews.

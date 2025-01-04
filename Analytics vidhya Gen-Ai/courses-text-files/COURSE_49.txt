@@ -1,0 +1,17 @@
+Course title : Introduction to Natural Language Processing
+
+Title description : Natural Language Processing (NLP) is the art of extracting information from unstructured text. This course teaches you basics of NLP, Regular Expressions and Text Preprocessing.
+
+Course description :Natural Language Processing is the art of extracting information from unstructured text. Learn basics of Natural Language Processing, Regular Expressions & text sentiment analysis using machine learning in this course.Natural Language Processing (NLP) is basically how you can teach machines to understand human languages and extract meaning from text.Language as a structured medium of communication is what separates us human beings from animals. We are surrounded by text data all the time sourced from books, emails, blogs, social media posts, news and more. Natural Language Processing is expected to be worth 30 Billion USD by 2024 with the past few years seeing immense improvements in terms of how well it is solving industry problems at scale. Natural Language Processing (NLP) today powers many key real-life industry applications, such as:  Language Translation, Dialog Systems / Chatbots, Sentiment Analysis, Text Summarizers, Speech Recognition, Autocorrect.
+
+Course curriculum :Module 1 : Introduction to Natural Language Processing, Module 2: Learn to use Regular Expressions, Module 3: First Step of NLP - Text Processing, Module 4: NLP Certification Exam, Module 5: Where to go from here?.
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

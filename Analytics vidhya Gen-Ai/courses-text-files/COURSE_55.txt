@@ -1,0 +1,45 @@
+Course title :Pandas for Data Analysis in Python
+
+Title description :What is Pandas? How can you perform data analysis and data manipulation using Pandas in Python? Learn how to work with Pandas in this superb free course and master the most popular Python library in data science.
+
+Course description :
+Learn Pandas - The Most Popular and Useful Python Library for Data Science
+Pandas is one of the most popular Python libraries in data science. In fact, Pandas is among those elite libraries that draw instant recognition from programmers of all backgrounds, from developers to data scientists.
+According to a recent survey by StackOverflow, Pandas is the 4th most used library/framework in the world. That is quite an achievement!
+Pandas is the first library we import when we fire up our Jupyter notebooks (‘import pandas as pd’ is indelibly etched in our minds!). It is a super flexible tool that enables us to perform data analysis and data manipulation on Pandas dataframes in double-quick time.
+As a beginner in data science and especially Python, you’ll have a lot of questions about Pandas
+What is Pandas?
+How can I install Pandas in Python?
+Where is Pandas used in data science?
+How difficult is it to learn Pandas?
+What is a Pandas dataframe?
+Do I need to know Python to learn Pandas?
+What kind of data analysis can I perform using Pandas?
+Will Pandas help me become a better data scientist?
+What kind of data formats can I import using Pandas?
+If you’ve asked any of these questions before or are looking to learn Pandas from scratch, you’ve come to the right place.
+
+Course curriculum :
+Getting Started with Pandas
+Dataset Description
+Read & Write Data using Pandas
+Pandas Dataframes
+Data Exploration using Pandas
+Data Manipulation using Pandas
+Aggregating data using Pandas
+Merging Data using Pandas
+Pandas Cheatsheet
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :
+Beginners in Python who are curious about Pandas and how to use it for data analysis and data manipulation
+Anyone who wants to start their data science career (Pandas is the first library you’ll import!)
+Anyone looking to get into a data analyst role using Python programming
+Anyone who wants to jump from Excel into Python

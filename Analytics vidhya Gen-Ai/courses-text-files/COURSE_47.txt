@@ -1,0 +1,17 @@
+Course title : Introduction to Business Analytics
+
+Title description : Business analytics is thriving – and so is its role in forward-thinking organizations around the world. The demand for business analytics professionals is growing multifold - and now is the time to start working towards your desired career.
+
+Course description : What is Business Analytics? Why has it become so popular recently? What are some of the popular applications of Business Analytics? And more importantly, how can you get started with learning Business Analytics from scratch? With growth in digitisation, Business Analytics is ubiquitous right now. Organizations are splurging to integrate data science solutions in their daily processes. This is where they need Business Analysts.
+
+Course curriculum :What is Business Analytics?, Spectrum of Business Analytics, Skills Required for Business Analytics and Roadmap of Business Analytics Program, Case study: Ezine Publishing.
+
+Who should Enroll :
+
+Instructor name : Kunal Jain
+
+Instructor designation : Founder & CEO, Analytics Vidhya
+
+About the instructor : Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways : 

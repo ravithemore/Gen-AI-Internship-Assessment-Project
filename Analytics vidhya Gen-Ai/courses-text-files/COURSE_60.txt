@@ -1,0 +1,32 @@
+Course title :Convolutional Neural Networks (CNN) from Scratch
+
+Title description :Convolutional neural networks, or CNNs, have taken the deep learning community by storm. These CNN models power deep learning applications like object detection, image segmentation, facial recognition, etc. Learn all about CNN in this course.
+
+Course description :
+Learn about Convolutional Neural Networks (CNN) from Scratch
+Convolutional Neural Networks, or CNN as they’re popularly called, are the go-to deep learning architecture for computer vision tasks, such as object detection, image segmentation, facial recognition, among others. CNNs have even been extended to the field of video analysis!
+If you are picking one deep learning architecture to learn and are not sure where to start, you should go for convolutional neural networks. Deep learning enthusiasts and experts with CNN knowledge are being widely sourced in the industry.
+It’s your time to use this CNN skillset and shine!
+
+Course curriculum :
+Introduction to Neural Networks
+Introduction to CNNs
+Architecture of a CNN
+Mathematics behind CNNs
+Implementing a CNN
+What Next?
+
+Who should Enroll :
+This course is designed for anyone who is:
+Interested in learning about CNNs
+A newcomer to deep learning
+Exploring the various aspects of deep learning
+Curious about the most popular type of neural network for working with image data!
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

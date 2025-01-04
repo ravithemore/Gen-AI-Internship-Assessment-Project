@@ -1,0 +1,17 @@
+Course title : Nano Course: Building Large Language Models for Code.
+
+Title description : Learn how to train Large Language Models for Code from Scratch covering each step involved in detail from training data curation to model evaluation. Deep dive into the journey of creating Starcoder, a 15B parameter code generation model.
+
+Course description : Learn how to train LLMs for Code from Scratch covering Training Data Curation, Data Preparation, Model Architecture, Training, and Evaluation Frameworks. Explore each step in-depth, delving into the algorithms and techniques used to create StarCoder, a 15B code generation model trained on 80+ programming languages. Understand and learn the best practices to train your own StarCoder on the data.
+
+Course curriculum :Introduction, Agenda, BigCode Community, Training LLMs for Code from Scratch: Training Data Curation, Training Data Formatting and Preprocessing, Model Architecture, BigCode Ecosystem, Training Frameworks, Model Evaluation, Tools and Descendants of StarCoder.
+
+Who should Enroll :
+
+Instructor name : Loubna Ben Allal.
+
+Instructor designation : ML Engineer at Hugging Face.
+
+About the instructor : Loubna Ben Allal is a Machine Learning Engineer at Hugging Face. She has been working on LLMs for code. She is part of the core team of BigCode that released The Stack dataset, SantaCoder, and StarCoder models.
+
+Key takeaways : Learn how to train LLMs for code fom scratch, Deep dive into StarCoder journey, Understand algorithms and techniques used at each step involved in development of StarCoder, Learn best practices to train your own StarCoder model on data, Explore the model architecture, training and evaluation frameworks for Code LLMs.

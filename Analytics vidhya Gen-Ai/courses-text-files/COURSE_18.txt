@@ -1,0 +1,15 @@
+Course title : The Working of Neural Networks - Free Course.
+
+Title description : Kickstarting your career in the field of Deep Learning can be made easy with the right guide. This course will serve as a learning path to help beginners navigate through the complex terrain of Deep Learning.
+
+Course description :This free course will help you understand the end-to-end working of neural networks in a simple manner. By the end of this course, you will be able to build advanced Deep Learning models using the PyTorch framework. With a carefully curated list of resources and exercises, this course serves as your comprehensive guide to mastering deep learning. It is recommended that you complete the advanced Machine Learning course before taking up this course.
+
+Course curriculum : How are Neural Networks trained - Forward Propagation, Understanding Loss Functions + Hands on, Reading: Creating a Custom Loss Function (Optional), Optimization Techniques - Gradient Descent, What is Back Propagation?, Types of Gradient Descent, Common Optimization Techniques - Part 1, Common Optimization Techniques - Part 2, Building a Deep Neural Network (Hands-on Regression Model), Building a Deep Neural Network (Hands-on Classification Model), Quiz.
+
+Who should Enroll : Professionals: Individuals looking to expand their skill set and apply deep learning across different industries. Aspiring Students: For those setting out on their journey to mastering deep learning and making a mark in the tech world.
+
+Instructor name :
+Instructor designation :
+About the instructor :
+
+Key takeaways :Utilize leading AI tools like ChatGPT, Microsoft Copilot, and DALL·E3 to create text and image content, enhancing your ability to innovate and streamline your creative processes. Utilize leading AI tools like ChatGPT, Microsoft Copilot, and DALL·E3 to create text and image content, enhancing your ability to innovate and streamline your creative processes.

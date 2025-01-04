@@ -1,0 +1,31 @@
+Course title :Getting Started with Neural Networks
+
+Title description :Kick start your journey in deep learning with Analytics Vidhya's Introduction to Neural Networks course! Learn how a neural network works and its different applications in the field of Computer Vision, Natural Language Processing and more.
+
+Course description :
+Introduction to Neural Networks
+What is a neural network? How does it work? What does a neural network do? Learn neural networks for free in this course and get your neural network questions answered, including applications of neural networks in deep learning.
+Learn how neural networks work in deep learning
+Do you want to acquire a super power? How about learning neural networks? Neural networks are at the heart of the deep learning revolution that’s happening around us right now.
+Neural networks are the present and the future. The different neural network architectures like convolutional neural networks (CNN), recurrent neural networks (RNN), and others have altered the deep learning landscape.
+
+Course curriculum :
+Introduction to Deep Learning
+Getting ready for the course
+Introduction to Neural Network
+Activation Functions
+Loss Function
+NN on structured Data
+Assignment: Big Mart Sales Prediction
+Real World Use cases of Deep Learning
+Where to go from here?
+
+Who should Enroll :
+
+Instructor name : Kunal Jain
+
+Instructor designation : Founder & CEO, Analytics Vidhya
+
+About the instructor :Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways :

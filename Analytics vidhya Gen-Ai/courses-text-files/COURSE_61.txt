@@ -1,0 +1,34 @@
+Course title :Dimensionality Reduction for Machine Learning
+
+Title description :Dimensionality reduction is a key concept in machine learning. This course covers several dimensionality reduction techniques that every data scientist should know, including Principal Component Analysis (PCA) and Factor Analysis, among others!
+
+Course description :
+Learn All About the Power of Dimensionality Reduction
+Have you worked on a dataset with more than a thousand features? How about 40,000 features? We are generating data at an unprecedented pace right now and working with massive datasets in machine learning projects is becoming mainstream.
+This is where the power of dimensionality reduction techniques comes to the fore. Dimensionality reduction is actually one of the most crucial aspects in machine learning projects.
+You can use dimensionality reduction techniques to reduce the number of features in your dataset without having to lose much information and keep (or improve) the model’s performance. It’s a really powerful way to deal with huge datasets, as you’ll see in this course!
+Every data scientist, aspiring established, should be aware of the different dimensionality reduction techniques, such as Principal Component Analysis (PCA), Factor Analysis, t-SNE, High Correlation Filter, Missing Value Ratio, among others.
+So in this beginner-friendly course, you will learn the basics of dimensionality reduction and why you should know dimensionality reduction in machine learning. We will also cover 12 dimensionality reduction techniques! This course is as comprehensive an introduction as you can get!
+
+Course curriculum :
+Introduction to the Course
+Introduction to Dimensionality Reduction
+Feature Selection Techniques
+Factor Based Feature Extraction Techniques
+Projection Based Feature Extraction Techniques
+
+Who should Enroll :
+This dimensionality reduction course is designed for machine learning folks who:
+Want to understand how to work with high dimensional data
+Are struggling to build machine learning models on a dataset with hundreds and thousands of features
+Want to explore the various dimensionality reduction techniques out there
+Are preparing for their machine learning journey
+Want to understand where dimensionality reduction fits in
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

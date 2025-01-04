@@ -1,0 +1,15 @@
+Course title : The A to Z of Unsupervised ML - Free Course.
+
+Title description : Get ahead of the crowd with this free course on Unsupervised Machine Learning Models. We will be covering popular clustering algorithms and DBSCAN and show you its applications on a real-world business problem.
+
+Course description : Unsupervised machine learning helps uncover hidden patterns and structures in data without labeled examples. It is essential for exploratory data analysis, reducing dimensionality, and discovering intrinsic relationships within datasets. Mastering unsupervised techniques enhances data preprocessing and drives insights in complex datasets where labels are scarce or unavailable.
+
+Course curriculum : Resources to be used in this course, Setting the Context, Choosing Clustering Algorithms, Solving our Problem using k-means - Part 1, Solving our Problem using k-means - Part 2, Finding optimal K value, Analysis and Insights Based on the Plots, Introduction to Hierarchical Clustering Analysis (HCA), Solving our Problem using Hierarchical Clustering, Introduction to DBSCAN Clustering, Solving our Problem using DBSCAN, Reading: Applications of Clustering in the Real World, Project.
+
+Who should Enroll :Professionals: Individuals looking to expand their skill set and apply unsupervised learning across different industries. Aspiring Students: For those setting out on their journey to mastering machine learning and making a mark in the tech world.
+
+Instructor name :
+Instructor designation :
+About the instructor :
+
+Key takeaways : Learn machine learning techniques and build real-world Unsupervised ML Models. Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.

@@ -1,0 +1,18 @@
+Course title : Improving Real World RAG Systems: Key Challenges & Practical Solutions.
+
+Title description : Master key challenges in real-world Retrieval-Augmented Generation (RAG) systems. Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+
+Course description : This course explores the key challenges in building real-world Retrieval-Augmented Generation (RAG) systems and provides practical solutions. Topics include improving data retrieval, dealing with hallucinations, context selection, and optimizing system performance using advanced prompting, retrieval strategies, and evaluation techniques. Through hands-on demos, you will gain insights into better chunking, embedding models, and agentic RAG systems for more robust, real-world applications.
+
+Course curriculum : Introduction to RAG Systems, Resources, RAG System Challenges Practical Solutions, Hands-on: Solution for Missing Content in RAG, Other Key Challenges, Practical Solutions, Hands-on: Solution for Missed Top Ranked, Not in Context, Not Extracted _ Incorrect SpecificityHands-on- Solution for Missed, Wrong Format Problem Solution
+Hands-on: Solution for Wrong Format, Incomplete Problem Solution, HyDE, Other Practical Solutions from recent Research Papers.
+
+Who should Enroll : AI/ML professionals aiming to enhance RAG system performance and solve real-world challenges. AI/ML professionals aiming to enhance RAG system performance and solve real-world challenges. Researchers/Enthusiasts seeking hands-on experience with advanced RAG techniques and agentic systems.
+
+Instructor name : Dipanjan Sarkar.
+
+Instructor designation : Head of Community and Principal AI Scientist, Analytics Vidhya.
+
+About the instructor : Dipanjan Sarkar is a distinguished Lead Data Scientist, Published Author, and Consultant, having a decade of extensive expertise in Machine Learning, Deep Learning, Generative AI, Computer Vision, and Natural Language Processing. His leadership spans Fortune 100 enterprises to startups, crafting end-to-end data products and pioneering Generative AI upskilling programs. A seasoned mentor, Dipanjan advises a diverse clientele, from novices to C-suite executives and PhDs, across Advanced Analytics, Product Development, and Artificial Intelligence. His recognitions include "Top 10 Data Scientists in India, 2020," "40 under 40 Data Scientists, 2021," "Google Developer Expert in Machine Learning, 2019," and "Top 50 AI Thought Leaders, Global AI Hub, 2022," alongside global accolades and a Google Champion Innovator title in Cloud AI/ML, 2022.
+
+Key takeaways : Master RAG systems with a solid grasp of architecture and components. Solve key challenges like missing content and hallucinations. Optimize performance with advanced chunking and retrieval strategies. Develop practical decision-making skills for LLM adoption in various industries.

@@ -1,0 +1,17 @@
+Course title : Writing Powerful Data Science Articles
+
+Title description : Are you looking to write and publish your data science article? Or perhaps you are looking for tips and tricks to improve your article’s readability and viewership. This course on writing powerful data science articles is for you!
+
+Course description : The best way to learn any concept, especially in data science, is by writing about it. That not only helps you understand what you learned in more detail, but sharing it with the community helps others understand how a particular data science idea works.But here’s the thing - most people want to write, but just can’t get past the initial challenges. This might sound familiar to a lot of people: What should I write about?, Will anyone read my article?, How do I make my article stand out?, Should I even write?. If you’ve ever asked yourself these questions, you’ll find the answers in this free crash course on how to write impactful and awesome data science articles!
+
+Course curriculum :Welcome to the Data Science Writing Crash Course!. Crash Course - How to Write Powerful Data Science Articles. Expert Talk: Writing Powerful Data Science Articles with Parul Pandey. Next Steps.
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :Session 1: How to Write Powerful Data Science Articles. Session 2: Best Practices - Writing Articles that Grab your Reader’s Attention.

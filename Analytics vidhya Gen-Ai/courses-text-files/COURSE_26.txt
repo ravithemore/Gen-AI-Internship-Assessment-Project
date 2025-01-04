@@ -1,0 +1,17 @@
+Course title : Nano Course: Dreambooth-Stable Diffusion for Custom Images.
+
+Title description : Theory to Practice: Dive into Stable Diffusion, its history, and significance, then master the Dreambooth process. Learn how to fine-tune Dreambooth model with your custom images discussing step by step in detail.
+
+Course description : Have you ever wondered how to turn your dreams into reality by creating images of your dog traveling around the world or yourself alongside Elon Musk or playing cricket with MSD? This is exactly where the dreambooth model comes into the picture. With the help of Dreambooth, you can personalize the stable diffusion for a particular subject. Given just 5 images of our subject, dreambooth can create new images across diverse scenes, poses, views, and lighting conditions that do not appear in the reference images. In this free nano course on Dreambooth, Sandeep will discuss the historical journey of stable diffusion, its current landscape, and a brief understanding of the stable diffusion training process. Then we will move on to the dreambooth, its training process and finetune dreambooth on our custom dataset.
+
+Course curriculum : Understand the difference between stable diffusion and dreambooth, Why Stable Diffusion, Recap on History of Stable Diffusion, Intuition behind Stable Diffusion, How to train a Stable Diffusion model, Introduction to Dreambooth, Understanding the Dreambooth Process, Tricks to Name Your Concept Uniquely, How to Select Images for Finetuning Dreambooth, Setting up the Training Environment, Code-Finetuning Dreambooth model on Custom Dataset, The Importance of Captioning in Dreambooth, Differences between Stable Diffusion and Dreambooth.
+
+Who should Enroll :
+
+Instructor name : Sandeep Singh.
+
+Instructor designation : Head of Applied AI/Computer Vision at Beans.ai
+
+About the instructor : Highly skilled AI leader with expertise in Generative AI, Computer Vision, NLP, and more. Proven record in developing and optimizing AI projects at scale and Exceptional at team building. A visionary leader fostering innovation and agile culture.
+
+Key takeaways : Finetune Dreambooth on the custom dataset discussing each step in detail, Understand the training process of dreambooth, Learn Tricks to Name Your Concept Uniquely in dreambooth, Overview of Stable Diffusion, its journey and training process, Understand the difference between stable diffusion and dreambooth.

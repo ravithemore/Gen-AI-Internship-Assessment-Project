@@ -1,0 +1,17 @@
+Course title : Machine Learning Starter Program
+
+Title description : Step-by-step online program to learn the basics of Machine Learning with focus on concepts as well as practical problem solving. Ideal for beginners who want to start their journey in Machine Learning.
+
+Course description : We generate more than 2.5 quintillion bytes of data every day - and companies across the globe are hiring data scientists to make sense of this data.A data scientist’s job is one of the most sought-after in the 21st century. Companies are increasingly looking for professionals with a variety of skills in Machine Learning. And that's what we are here to give you via our Machine Learning Starter Program.This is the perfect starting point to ignite your fledgling machine learning career and take a HUGE step towards your dream data scientist role.
+
+Course curriculum :
+
+Who should Enroll : This program is specially curated to start your career in Machine Learning and gain practical experience.
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Help you understand how this field is transforming and disrupting industries. Understand machine learning algorithms and apply them to solve real world problems. Enhance and complement your learning through real life projects. We believe in a holistic learning approach and that's how we've curated the Machine Learning Starter Program.

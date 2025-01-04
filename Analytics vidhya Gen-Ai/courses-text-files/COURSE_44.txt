@@ -1,0 +1,17 @@
+Course title : Getting Started with Git and GitHub for Data Science Professionals
+
+Title description : Upskill your data science acumen with Analytics Vidhya's Github course for data scientists that empowers you with learning the value and the ins and out’s of Git and GitHub and using Git and GitHub to make your data science projects easier to track.
+
+Course description :Ever heard of version control? It is one of the most important concepts in a data scientist’s daily role - and yet most newcomers and beginners haven’t even come across it! This is a fallacy you must overcome as soon as possible. Ever heard of version control? It is one of the most important concepts in a data scientist’s daily role - and yet most newcomers and beginners haven’t even come across it! This is a fallacy you must overcome as soon as possible. The beauty of version control will be akin to a revelation. The way you can create a remote project and have all your team members work on different features parallelly yet independently but still have a stable running code at the end of the day - priceless! A lot of the problem we face in data science while working remotely and independently will be erased with a quick understanding of Git and GitHub. Yes, this course really is that important!
+
+Course curriculum : Getting Familiar with Git and GitHub, Understand Git Terminology, Get Started with Git, Going Remote - Get started with GitHub, What's next?.
+
+Who should Enroll : This course is for anyone who: Wants to become a data scientist or wants a role in data science, Wants to learn all about programming, Is curious about the role Git and GitHub play in data science programming, Wants to add a key data science skill to their resume called version control.
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Learn the value and the in’s and out’s of Git and GitHub in this comprehensive guide for beginners. No prerequisites required - start from scratch and understand how Git and GitHub work. How you can use Git and GitHub to make your data science projects easier to track. You will add an essential data scientist skill to your portfolio after the course - version control!.

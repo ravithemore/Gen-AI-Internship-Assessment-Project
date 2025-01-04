@@ -1,0 +1,35 @@
+Course title :Linear Programming for Data Science Professionals
+
+Title description :The Linear Programming for Data Science Professionals’ course will guide you on how to get started with linear programming (LP), the different components of LP, and how to solve linear programming problems using Excel, R and more!
+
+Course description :
+Get a Head Start on Linear Programming to Solve Optimization Problems in Data Science!
+Optimization is the way of life. We all have finite resources and time and we want to make the most of them. From using your time productively to solving supply chain problems for your company – everything uses optimization.
+And that’s where learning linear programming will make you a better data science professional.
+we are solving optimization problems everyday - without realizing it. Think of how you distributed the chocolate among your peers or siblings - that’s your way of optimizing the situation. On the other hand devising inventory and warehousing strategy for an e-tailer can be very complex. Millions of SKUs with different popularity in different regions to be delivered in defined time and resources.
+and linear programming helps us solve these optimization problems with ease and efficiency. As a data science professional, you are bound to come across these optimization problems that you will solve using linear programming.
+Simply put, you should know what linear programming is, and the different methods to solve linear programming problems.
+
+Course curriculum :
+Introduction to Linear Programming
+Introduction
+Tools to Solving Linear Programming Problems
+Methods to Solve Linear Programing Problems
+Applications of Linear Programming
+Conclusion
+
+Who should Enroll :
+This course is for anyone who:
+Wants to learn about linear programming
+Wants to understand how linear programming works and how to solve linear programming problems
+Isn’t a programmer but is curious how to work on linear programming problems (MX Excel!)
+Wants to master a niche branch of data science to gain a competitive advantage over their peers
+Is looking to solve optimization problems using linear programming
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

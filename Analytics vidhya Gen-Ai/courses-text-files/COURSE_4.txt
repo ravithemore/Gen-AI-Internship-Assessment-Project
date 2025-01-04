@@ -1,0 +1,17 @@
+Course title : Mastering Multilingual GenAI Open-Weights for Indic Languages.
+
+Title description : Unlock the power of open-weight models to build cutting-edge multilingual AI solutions.
+
+Course description : Mastering Multilingual GenAI – Open-Weights for Indic Languages" is a course designed to equip you with the knowledge to develop state-of-the-art multilingual AI models using open-weight architectures. Focusing on low-resource languages, particularly Indic languages, the course covers essential topics like multilingual AI training, instruction fine-tuning, model building, and performance evaluation.
+
+Course curriculum : Introduction, Importance of Multilingual, Training for Multilingual Gen AI, Instruction Fine-Tuning Data for Multilingual, Measuring Performance for Multilingual, Building a Model, Human Preferences, Curse of Multilinguality, Coding Hands-On.
+
+Who should Enroll : Those looking to build state-of-the-art multilingual models for low-resource languages. Tech Entrepreneurs and Innovators who want to build scalable, inclusive AI systems that cater to a diverse, multilingual user base. Data Scientists seeking to explore state-of-the-art instruction fine-tuning techniques and work with large multilingual datasets. Students and Professionals aspiring to work in cutting-edge AI fields, with a specific interest in bias mitigation, safety, and ethical considerations in language models.
+
+Instructor name : Viraat Aryabumi.
+
+Instructor designation : Research Scholar at Cohere for AI.
+
+About the instructor : Viraat is a Research Scholar at Cohere for AI, where he contributed to the Aya Project and Aya-101 model. He previously led Machine Learning at Aiara and was a Machine Learning Scientist at Amazon. He holds a Master's in AI from the University of Edinburgh.
+
+Key takeaways : Learn to create AI models for diverse languages, focusing on low-resource ones. Get hands-on experience with cutting-edge models and multilingual data. Implement strategies for safer, unbiased AI models in global applications.

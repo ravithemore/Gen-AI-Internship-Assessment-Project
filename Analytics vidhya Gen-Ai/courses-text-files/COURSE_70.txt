@@ -1,0 +1,27 @@
+Course title :Introduction to AI & ML
+
+Title description :Artificial Intelligence (AI) and Machine Learning (ML) are changing the world around us. From functions to industries, AI and ML are disrupting how we work and how we function. Get to know all about the different facets of AI and ML in this course.
+
+Course description :
+Welcome to the World of Artificial Intelligence and Machine Learning!
+The AI revolution is here - are you prepared to integrate it into your skillset? How can you leverage it in your current role? What are the different facets of AI and ML?
+Analytics Vidhya’s ‘Introduction to AI and ML’ course, curated and delivered by experienced instructors with decades of industry experience between them, will help you understand the answers to these pressing questions.
+Artificial Intelligence and Machine Learning have become the centerpiece of strategic decision making for organizations. They are disrupting the way industries and roles function - from sales and marketing to finance and HR, companies are betting big on AI and ML to give them a competitive edge.
+And this, of course, directly translates to their hiring. Thousands of vacancies are open as organizations scour the world for AI and ML talent. There hasn’t been a better time to get into this field!
+
+Course curriculum :
+Introduction to AI & ML
+Common Terminologies, Tools and Techniques\
+Skills required to become a data science professional
+
+Who should Enroll :
+
+Instructor name : Kunal Jain
+
+Instructor designation : Founder & CEO, Analytics Vidhya
+
+About the instructor : Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways :
+You will learn the current state of AI and ML, how they are disrupting businesses globally
+Solid understanding of what AI and ML mean, what they represent in the current market and industry, how they work, and why you should learn about them.

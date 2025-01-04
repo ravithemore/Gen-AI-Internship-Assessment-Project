@@ -1,0 +1,17 @@
+Course title : Machine Learning Summer Training
+
+Title description : In this free Machine Learning Summer Training, you will learn Python, the basics of machine learning, how to build machine learning models, and feature engineering techniques to improve the performance of your machine learning models.
+
+Course description : If you are a college student and looking for summer training, then you are at the right place where Analytics Vidhya is providing its virtual training along with the mega hackathon for students all over the world to compete, win grand rewards and internship opportunities. Machine Learning Summer Training is an online program to build and enhance your programming and machine learning skills, led by the best industry experts and data science professionals. After completing this training you will be provided with a blockchain enabled certificate by Analytics Vidhya with lifetime validity. This is the perfect starting point to ignite your fledging machine learning career and take a HUGE step towards your dream data scientist role. If you haven't enrolled in the program already, Don't wait!
+
+Course curriculum : Overview of the Course, Introduction to Data Science and Machine Learning, Setting up your system, Introduction to Python, Variables and Data Types, Operators, Conditional Statements, Looping Constructs, Data Structures, String Manipulation, Functions, Modules, Packages and Standard Libraries, Handling Text Files in Python, Introduction to Python Libraries for Data Science, Python Libraries for Data Science, Reading Data Files in Python, Preprocessing, Subsetting and Modifying Pandas Dataframes, Sorting and Aggregating Data in Pandas, Visualizing Patterns and Trends in Data, Machine Learning Lifecycle, Problem statement and Hypothesis Generation, Importance of Stats and EDA, Build Your First Predictive Model, Evaluation Metrics, Preprocessing Data, Build Your First ML Model: k-NN, Selecting the Right Model, Linear Models, Project: Customer Churn Prediction, Decision Tree, Feature Engineering, Project: NYC Taxi Trip Duration prediction, Feedback.
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Python libraries like Numpy, Pandas, etc. to analyze your data efficiently. Importance of Statistics and Exploratory Data Analysis (EDA) in the data science field. Linear Regression, Logistic Regression, and Decision Trees for building machine learning models. Understand how to solve Classification and Regression problems using machine learning. How to evaluate your machine learning models using the right evaluation metrics?. Improve and enhance your machine learning model’s accuracy through feature engineering.

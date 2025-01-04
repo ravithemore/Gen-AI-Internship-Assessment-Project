@@ -1,0 +1,31 @@
+Course title :Evaluation Metrics for Machine Learning Models
+
+Title description :What are evaluation metrics in machine learning? What are the different types of evaluation metrics? How do you gauge and improve your machine learning model? This course will teach you all about evaluation metrics for machine learning models!
+
+Course description :
+Evaluation Metrics are a Key Part of Machine Learning Models
+Evaluation metrics form the backbone of improving your machine learning model. Without these evaluation metrics, we would be lost in a sea of machine learning model scores - unable to understand which model is performing well.
+Wondering where evaluation metrics fit in? Here’s how the typical machine learning model building process works:
+We build a machine learning model (both regression and classification included)
+Get feedback from the evaluation metric(s)
+Make improvements to the model
+Use the evaluation metric to gauge the model’s performance, and
+Continue until you achieve a desirable accuracy
+Evaluation metrics, essentially, explain the performance of a machine learning model. An important aspect of evaluation metrics is their capability to discriminate among model results.
+If you’ve ever wondered how concepts like AUC-ROC, F1 Score, Gini Index, Root Mean Square Error (RMSE), and Confusion Matrix work, well - you’ve come to the right course!
+
+Course curriculum :
+Introduction
+Evaluation Metrics: Classification
+Evaluation Metrics: Regression
+What Next?
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

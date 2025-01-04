@@ -1,0 +1,17 @@
+Course title : Framework to Choose the Right LLM for your Business.
+
+Title description : This course provides a comprehensive framework for selecting the right LLM for your business. Learn to evaluate LLMs based on accuracy, cost, scalability, and more, while exploring real-world applications to make informed, strategic AI decisions.
+
+Course description : This course will guide you through the process of selecting the most suitable Large Language Model (LLM) for various business needs. By examining factors such as accuracy, cost, scalability, and integration, you will understand how different LLMs perform in specific scenarios, from customer support to healthcare and strategy development. The course emphasizes practical decision-making with real-world case studies, helping businesses navigate the rapidly evolving LLM landscape effectively.
+
+Course curriculum : Introduction, It's an LLM World!, Understand Your Business, Framework to Choose the Right LLM, Case Studies, Conclusion.
+
+Who should Enroll : Business leaders seeking to implement AI-driven solutions efficiently. Data scientists exploring LLMs for industry-specific applications. Tech professionals involved in AI integration and decision-making processes.
+
+Instructor name :Rohan Rao.
+
+Instructor designation : Principal Data Scientist, H2O.ai; Quadruple Kaggle Grandmaster.
+
+About the instructor : A Principal Data Scientist at H2O.ai and an IIT-Bombay alumnus, is a highly accomplished professional. He is a quadruple Kaggle Grandmaster and was formerly ranked #1 on AnalyticsVidhya. In addition to his expertise in data science, Rohan is a 9-time National Sudoku Champion. A versatile individual, he is also a passionate coder, reader, writer, and lifelong learner, known in the community as "vopani."
+
+Key takeaways : Understand how to evaluate and select the right LLM for business needs. Learn to assess LLMs based on accuracy, cost, scalability, and integration. Gain insights into real-world LLM applications through case studies. Develop practical decision-making skills for LLM adoption in various industries.

@@ -1,0 +1,17 @@
+Course title : Learning Autonomous Driving Behaviors with LLMs & RL
+
+Title description : Learn to train autonomous driving agents using Reinforcement Learning (RL) and Large Language Models (LLMs). Gain practical experience designing AI systems that simulate safe, human-like driving behavior.
+
+Course description : This course dives into the development of autonomous driving behaviors using Reinforcement Learning (RL) and Large Language Models (LLMs). You’ll explore how RL agents are trained to navigate complex, real-world environments while making safe, human-like driving decisions. The course tackles key challenges such as designing effective reward systems, ensuring safety in high-speed driving scenarios, and improving the interpretability of AI decisions. Through practical projects, you will design RL agents using techniques like Deep Q-Networks (DQN), experience replay, and integrate LLMs to enhance decision-making.
+
+Course curriculum : Introduction, Evolution RL, Understanding RL, Challenges with RL, Approach to the Problem Statement, Hands-On: Learning Autonomous Driving Behaviors with LLMs & RL.
+
+Who should Enroll : Professionals and students interested in AI, autonomous systems, and machine learning. Engineers and developers looking to apply RL and LLMs in real-world autonomous driving projects. Anyone seeking to explore cutting-edge AI technologies and their applications in safety-critical systems.
+
+Instructor name :Mayank Baranwal
+
+Instructor designation : Senior Scientist at TCS Research | Adjunct Professor at IITB | INAE Young Associate | UIUC | IITK
+
+About the instructor : Mayank Baranwal is a Senior Scientist at Tata Consultancy Services (TCS) Research, Mumbai, and an Adjunct Faculty at IIT Bombay. He holds a PhD in Mechanical Science and Engineering from the University of Illinois, Urbana-Champaign (UIUC). His research focuses on optimization, control, and network systems with applications in supply chains, power networks, and deep learning. He has received several accolades, including the Young Scientist Award (2022) and the Gold Award for Best Smart Technology in Electricity Transmission (2023).
+
+Key takeaways : Learn how to train RL agents for safe, human-like autonomous driving behavior. Understand how LLMs enhance decision-making and interpretability in AI systems. Gain practical experience in designing and applying reward functions for real-world autonomous environments.

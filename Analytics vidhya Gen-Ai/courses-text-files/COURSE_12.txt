@@ -1,0 +1,17 @@
+Course title : Generative AI - A Way of Life - Free Course.
+
+Title description : Embark on a journey into Generative AI for beginners. Learn AI-powered text and image generation, use top AI tools, and explore industry applications. Gain practical skills, understand ethical practices, and master prompting techniques.
+
+Course description : This course is a transformative journey tailored for beginners and delves into AI-powered text and image generation using leading tools like ChatGPT, Microsoft Copilot, and DALL·E3. Learn practical applications across industries, ethical considerations, and best practices. Whether you're a content creator, business innovator, or AI enthusiast, gain the expertise to harness Generative AI's full potential and drive innovation in your field.
+
+Course curriculum : Introduction to Generative AI, Text Generation Using Generative AI, Image Generation Using Generative AI.
+
+Who should Enroll : This course is perfect for beginners with no technical background, professionals looking to enhance their AI skills, students eager to explore AI, and content creators seeking to leverage AI tools. If you're curious about AI's potential and want to stay ahead in your field, this course is for you.
+
+Instructor name : Apoorv Vishnoi.
+
+Instructor designation : Training Vertical, Analytics Vidhya.
+
+About the instructor : Apoorv is a seasoned AI professional with over 14 years of experience. He has founded companies, worked at start-ups and mentored start-ups at incubation cells.
+
+Key takeaways :Utilize leading AI tools like ChatGPT, Microsoft Copilot, and DALL·E3 to create text and image content, enhancing your ability to innovate and streamline your creative processes. Explore practical use cases across various industries, from marketing to finance, and apply ethical best practices, ensuring you are well-equipped to implement AI solutions responsibly and effectively.

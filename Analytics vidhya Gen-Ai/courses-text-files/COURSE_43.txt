@@ -1,0 +1,17 @@
+Course title : Top Data Science Projects for Analysts and Data Scientists
+
+Title description : Kick-start your career in data science with our data science courses and projects including learning on projects covering machine learning, computer vision, deep learning, natural language processing, reinforcement learning & data engineering.
+
+Course description : This is a very common question interviewers ask in data science interviews. We have conducted hundreds of these interviews for both data analyst and data scientist roles and this is quite often the jackpot question. This is especially true if you’re a fresher or a relative newcomer to data science. Just doing courses or attaining certifications isn’t good enough. Almost everyone we know holds certifications in various aspects of data science. It adds no value to your resume if you don’t combine it with practical experience. And that’s where open-source data science projects play such a key role!
+
+Course curriculum :Welcome to the course!, Machine Learning Projects, Deep Learning Projects, Computer Vision Projects, Natural Language Processing (NLP) Projects, Reinforcement Learning Projects, Data Engineering Projects, Other Data Science Projects
+
+Who should Enroll :This course is for anyone who: Wants to become a data scientist, data analyst, business analyst, or any other role in the data science space, Wants to practice and work on their existing data science skills, Is curious about the latest state-of-the-art projects in data science, Wants to enhance and improve their data science resume.
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :`

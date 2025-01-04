@@ -1,0 +1,17 @@
+Course title : Getting started with Decision Trees
+
+Title description : Decision Tree algorithm is one of the most powerful algorithm in Machine Learning. Decision trees are used by beginners/ experts to build machine learning models. This course provides you everything about Decision Trees & their Python implementation.
+
+Course description : A Decision Tree is a flowchart like structure, where each node represents a decision, each branch represents an outcome of the decision, and each terminal node provides a prediction / label.Decision Trees are the most widely and commonly used machine learning algorithms.Decision Trees can be used for solving both classification as well as regression problems.Decision Trees are robust to Outliers, so if you have Outliers in your data - you can still build Decision Tree models without worrying about impact of Outliers on your model.Decision Trees are easy to interpret and hence have multiple applications in different industries.
+
+Course curriculum : Introduction to Decision Tree, Purity in Decision Trees, Quiz: Purity in Decision Trees, Terminologies Related to Decision Trees, Quiz: Introduction to Decision Trees, Terminologies Related to Decision Trees, How to Select the Best Split Point in Decision Trees, Quiz: How to Select the Best Split Point in Decision Trees. Chi-Square, Quiz: Chi-Square, Information Gain, Quiz: Information Gain, Reduction in Variance, Quiz: Reduction in Variance, Optimizing Performance of Decision Trees, Quiz: Optimizing Performance of Decision Trees, Decision Tree Implementation, Dataset: Decision Tree Implementation, Where to go from here?, AI&ML Blackbelt Plus Program (Sponsored)
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :Introduction to Decision Trees - The course starts with basics of Decision Trees, the philosophy behind decision tree algorithm and why they are so popular among data scientists, Terminologies related to decision trees - Don't worry if you don't know anything about Decision Trees - that is the whole point about this course. What is a Leaf Node? Parent Node? Pruning? We will teach you all of these terminologies related to decision tree in a practical manner. Different splitting criterion for decision tree like Gini, chi-square The course teaches you different splitting criteria like Gini, Information Gain, chi-square and how do they impact the decision tree model. Implementation of decision tree in Python - The course will tell you several best practices you should keep in mind while implementing Decision Tree algorithm.

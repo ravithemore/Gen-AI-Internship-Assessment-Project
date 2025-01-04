@@ -1,0 +1,17 @@
+Course title : Building Smarter LLMs with Mamba and State Space Model.
+
+Title description : Master Mamba's selective state space model for LLMs. Discover key components like the Mamba block, optimizing sequence modeling with efficient, scalable training and inference, surpassing traditional Transformers.
+
+Course description : Unlock the Power of State Space Models (SSM) like Mamba with our comprehensive course designed for AI professionals, data scientists, and NLP enthusiasts. Master the art of integrating SSM with deep learning, unravel the complexities of models like Mamba, and elevate your understanding of Generative AI's newest and most innovative models. This course is designed to equip you with the skills needed to understand these cutting-edge AI models and how they work, making you proficient in the latest AI techniques and architectures.
+
+Course curriculum : Course Overview, An Alternative to Transformers, Understanding State Space Models, Mamba - A Selective State Space Model.
+
+Who should Enroll : AI and ML professionals looking to specialize in State Space Models and Mamba architecture. Data scientists interested in exploring advanced Generative AI models and architectures. NLP practitioners who want to integrate SSMs like Mamba in their workflows and use cases.
+
+Instructor name :Maarten Grootendorst.
+
+Instructor designation :Senior Clinical Data Scientist, IKNL; Creator of KeyBERT and BERTopic.
+
+About the instructor : Marteen holds three master’s degrees in Organizational, Clinical Psychology, and Data Science, using them to simplify machine learning for a broad audience. As co-author of Hands-On Large Language Models and through popular blogs, he’s reached millions by explaining AI, often from a psychological lens. He’s also the creator of widely-used open-source packages like BERTopic, PolyFuzz, and KeyBERT, which have millions of downloads and are utilized by data professionals globally.
+
+Key takeaways : A comprehensive understanding of State Space Models (SSM). In-depth exploration of The Mamba Architecture. Visual guides and workflows on SSM and Mamba. Advanced applications, comparisons and practical use cases.

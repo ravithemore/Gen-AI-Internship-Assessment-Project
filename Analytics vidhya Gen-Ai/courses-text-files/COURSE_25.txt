@@ -1,0 +1,15 @@
+Course title : Introduction to Generative AI
+
+Title description : This course will provide you with a comprehensive understanding of generative AI, including text and image generation techniques. By the end of the course, you will be have an understanding of using generative AI tools to create diverse content.
+
+Course description : This course will provide you with a comprehensive understanding of generative AI, including text and image generation techniques. By the end of the course, you will be have an understanding of using generative AI tools to create diverse content. You'll learn how generative AI works, engage in practical exercises, and gain the skills to implement these techniques in real-world projects
+
+Course curriculum : What is Generative AI, How does Gen AI work, Quiz, Text Generation with Gen AI, Image Generation with Gen AI, Quiz, Meet your Instructors, Course Handout.
+
+Who should Enroll : Professionals: Individuals looking to enhance their skills in generative AI and apply advanced techniques to create innovative solutions across various domains. Aspiring Students: Individuals eager to enter the field of generative AI and apply generative AI techniques to tackle complex problems and generate creative content across different fields.
+
+Instructor name :
+Instructor designation :
+About the instructor :
+
+Key takeaways : Learn to effectively use text and image generation tools to create diverse and innovative content. Engage in practical exercises to reinforce learning and apply generative AI concepts.

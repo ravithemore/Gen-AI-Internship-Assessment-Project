@@ -1,0 +1,23 @@
+Course title : Winning Data Science Hackathons - Learn from Elite Data Scientists
+
+Title description : Competing in a data science hackathon is all about skills, tactics, creativity and learning! Here is a unique opportunity to understand how the top hackers approach various types of problem statements and competitions.
+
+Course description :
+There is no substitute for experience. And that holds true in Data Science competitions as well. These cut-throat hackathons require a lot of trial-and-error, effort, and dedication to reach the ranks of the elite.
+This course is an amalgamation of various talks by top data scientists and machine learning hackers, experts, practitioners, and leaders who have participated and won dozens of hackathons. They have already gone through the entire learning process and they showcase their work and thought process in these talks. 
+This course features top data science hackers and experts, including Sudalai Rajkumar (SRK), Dipanjan Sarkar, Rohan Rao, Kiran R and many more!
+From effective feature engineering to choosing the right validation strategy, there is a LOT to learn from this course so get started today!
+
+Course curriculum :
+Introduction to Winning Data Science Hackathon Course
+Talks by Elite Data Scientists
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

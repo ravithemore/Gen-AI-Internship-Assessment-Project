@@ -1,0 +1,17 @@
+Course title : Navigating LLM Tradeoffs: Techniques for Speed, Cost, Scale & Accuracy
+
+Title description : Master the art of optimizing LLMs with practical techniques to achieve the best balance of performance and cost.
+
+Course description : This course provides a concise guide to optimizing Large Language Models (LLMs) by navigating tradeoffs in speed, cost, scale, and accuracy. Learn practical techniques like LoRA, model quantization, and parameter-efficient fine-tuning to improve performance while reducing costs. You'll explore various deployment strategies and understand how to evaluate LLMs using industry-standard benchmarks, making this course ideal for anyone seeking efficient, scalable AI solutions.
+
+Course curriculum : Introduction, Resources, Technique to Increase Accuracy, Training Speed and Cost Optimization, Inference Speed and Cost Optimization, Scale.
+
+Who should Enroll : ML Engineers and Data Scientists seeking to optimize LLMs for efficient deployment. AI Enthusiasts interested in learning practical techniques to balance LLM performance, cost, and scalability. Professionals in MLOps aiming to understand different deployment strategies for LLMs, including cloud, containerized, and serverless options.
+
+Instructor name : Kartik Nighania.
+
+Instructor designation : MLOps Engineer at Typewise|Certified AWS Cloud and Kubernetes Engineer.
+
+About the instructor : Kartik Nighania, an MLOps Engineer at Typewise, brings over seven years of AI experience across computer vision, NLP, and DevOps. Formerly Head of Engineering at Pibit.ai, he led AI-driven automation and infrastructure scaling. His expertise in CI/CD pipelines was honed at HSBC Technology, and his academic work includes AI publications and projects like ML-driven crop health detection.
+
+Key takeaways : Optimize LLM Tradeoffs: Master techniques to balance speed, cost, scale, and accuracy for LLMs. Efficient Fine-Tuning: Use LoRA to train large models with less compute while maintaining performance. Model Quantization: Reduce memory use and boost inference speed with 8-bit/4-bit quantization. LLM Evaluation Metrics: Assess models with ROUGE, BLEU, and benchmark tools like HuggingFace Leaderboard. Inference Optimization: Multi-LoRA, Improve efficiency with KV caching and Flash attention for faster results. Flexible Deployments: Choose from APIs, Kubernetes, and serverless options for scalable LLM deployment. Cost-Effective scaling and testing: Leveraging different cloud solutions based on use-case and how to load test applications for real-world scenario.

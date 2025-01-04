@@ -1,0 +1,17 @@
+Course title : Getting Started with Large Language Models.
+
+Title description : Embarking on a journey into Large Language Models (LLMs) can be seamless with the right approach. This course offers an optimal pathway to delve into the intricacies of natural language processing and model training.
+
+Course description : This course will help you gain a comprehensive understanding of Large Language Models (LLMs) and develop advanced natural language processing (NLP) applications using the PyTorch framework. With a carefully curated list of resources and exercises, this course is your guide to becoming an expert in LLMs. Master the techniques to build and fine-tune LLMs, and generate human-like text.
+
+Course curriculum : Introduction, The Evolution of NLP, What are Large Language Models?, The Current State of the Art in LLMs, Generative AI - Glossary, Your Feedback Matters!.
+
+Who should Enroll : Professionals: Individuals looking to expand their skill set and leverage LLMs across different industries. Aspiring Students: For those setting out on their journey to master language data analysis and leave a mark in the tech world.
+
+Instructor name : Kunal Jain.
+
+Instructor designation : CEO, Analytics Vidhya
+
+About the instructor : Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways : Learn Large Language Model techniques and build real-world NLP applications. Learn Large Language Model techniques and build real-world NLP applications.

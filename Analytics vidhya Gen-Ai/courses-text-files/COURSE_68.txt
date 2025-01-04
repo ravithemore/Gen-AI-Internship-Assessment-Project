@@ -1,0 +1,28 @@
+Course title : Tableau for Beginners
+
+Title description : Tableau is the tool of choice for business intelligence, analytics and data visualization experts. Learn how to use Tableau, the different features of Tableau, and start building impactful visualization using this Tableau tutorial!
+
+Course description :
+Get Started with Tableau for Data Visualization, Analytics and Business Intelligence
+Tableau is the gold standard in business intelligence, analytics and data visualization tools. Tableau Desktop (and now Tableau Public) have transformed the way we interact with visualizations and tell data stories to our clients, stakeholders, and to non-technical audiences around the world.
+Tableau has been recognized as a Leader in the Gartner Magic Quadrant for Analytics and Business Intelligence Platforms for 8 straight years. Here’s Gartner’s most recent ranking in 2020:
+In this Tableau for Beginners course, you will learn everything you need to get started with this wonderful visualization and business intelligence tool. You’ll be able to build charts like bar charts, line charts (for working with time series data), pie charts, and even get the hang of geospatial analysis using map visualizations in Tableau!
+
+Course curriculum :
+Introduction
+Concept of Visualization
+Understanding the Length and Breadth of Tableau
+Getting Started with Tableau
+Different Types of Charts in Tableau
+BONUS: Other Functionalities in Tableau
+What's Next?
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

@@ -1,0 +1,17 @@
+Course title : Certified AI & ML BlackBelt+ Program.
+
+Title description : This comprehensive certified program combines the power of data science, machine learning and deep learning to help you become an AI & ML Blackbelt! Go from a complete beginner to gaining in-demand industry-relevant AI skills.
+
+Course description : What happens when you combine ALL of Analytics Vidhya’s comprehensive courses, curated and designed by instructors with decades of data science experience? You get the AI & ML BlackBelt+ program! There are multiple elements that go into becoming an AI expert. Data Science, Machine Learning and Deep Learning are the core components you would need in our journey to break into the wonderful world of AI applications. AI & ML BlackBelt+ is a thoughtfully curated program designed for anyone wanting to learn data science, machine learning, deep learning in their quest to become an AI professional. It all starts here, so are you ready to take the ride? You will get access to ALL the courses Analytics Vidhya has curated and designed as part of AI & ML Blackbelt+. What are you waiting for? Start your AI journey today!
+
+Course curriculum :
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Data Science and Machine Learning, Machine Learning and Deep Learning Specializations, Master the Tools and Languages, Preparing for your next Data Science Interview.

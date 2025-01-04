@@ -1,0 +1,16 @@
+Course title : Coding a ChatGPT-style Language Model from Scratch in PyTorch
+
+Title description : Learn to build your own language model with PyTorch step-by-step.
+Course description : Master the art of building a ChatGPT-style language model from scratch with PyTorch. In this course, you'll explore essential NLP concepts, implement transformers, and create a decoder-only architecture step-by-step. Guided by expert tutorials, gain practical skills to develop advanced AI models tailored for real-world applications.
+
+Course curriculum : Introduction, Importing, Creating Inputs & Lables, Position Encoding, Masked Self-Attention, Putting Pieces Together, Creating Decoder Only Transformer.
+
+Who should Enroll : Ideal for those starting their journey in machine learning and eager to understand NLP and transformer models in-depth. For developers with some experience in Python or PyTorch, looking to level up by building ChatGPT-like language models. Those interested in expanding their skill set to include deep learning techniques and cutting-edge language modeling. Anyone passionate about AI advancements, eager to learn practical techniques for creating state-of-the-art NLP solutions.
+
+Instructor name : Dr. Joshua Starmer.
+
+Instructor designation : Co-Founder and CEO of Statsquest.
+
+About the instructor : Dr. Joshua Starmer, co-founder and CEO of Statsquest, is a visionary in Artificial Intelligence and Data Science, renowned for transforming complex concepts into practical, actionable insights. With a Ph.D. in Biomathematics and a distinguished career spanning academia and industry, his engaging presentations empower and inspire learners to excel in the ever-evolving world of AI and analytics.
+
+Key takeaways : Understand transformer fundamentals with step-by-step guidance, including masked self-attention and position encoding. Build and train models using PyTorch, focusing on practical coding skills for NLP. Create a fully functional ChatGPT-style language model from scratch, ready for real-world use.

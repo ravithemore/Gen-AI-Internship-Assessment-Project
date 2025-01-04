@@ -1,0 +1,30 @@
+Course title : Getting Started with scikit-learn (sklearn) for Machine Learning
+
+Title description : Scikit-learn (Sklearn) - the powerful Python library for machine learning. But what is sklearn? How does sklearn work? What kind of ML models can you build using sklearn? Find out in this course and build sklearn models!
+
+Course description :
+Learn All About sklearn - The Powerful Python Library for Machine Learning
+Scikit-learn, or sklearn for short, is the first Python library we turn to when building machine learning models. Sklearn is unanimously the favorite Python library among data scientists. As a newcomer to machine learning, you should be comfortable with sklearn and how to build ML models, including:
+Linear Regression using sklearn
+Logistic Regression using sklearn, and so on.
+ There’s no question - scikit-learn provides handy tools with easy-to-read syntax. Among the pantheon of popular Python libraries, scikit-learn (sklearn) ranks in the top echelon along with Pandas and NumPy.
+We love the clean, uniform code and functions that scikit-learn provides. The excellent documentation is the icing on the cake as it makes a lot of beginners self-sufficient with building machine learning models using sklearn.
+In short, sklearn is a must-know Python library for machine learning. Whether you want to build linear regression or logistic regression models, decision tree or a random forest, sklearn is your go-to library.
+
+Course curriculum :
+Welcome to the course!
+scikit-learn in Python
+Use of Scikit-learn in Data Science Life Cycle
+Use of Scikit-Learn in Model Building
+Machine Learning pipeline using scikit-learn!
+Next Steps...
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

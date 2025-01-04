@@ -1,0 +1,18 @@
+Course title : Building Your First Computer Vision Model - Free Course
+
+Title description : Embarking on a career in Computer Vision can be straightforward with the right guidance. This course provides an ideal pathway to master the complexities of image data analysis.
+
+Course description : This course will help you gain a deep understanding of Computer Vision and build advanced CV models using the PyTorch framework. With a carefully curated list of resources and exercises, this course is your guide to becoming a Computer Vision expert. Master the techniques to build convolutional neural networks, and classify images.
+
+Course curriculum : Pixel Perfect - Decoding Images, Understanding a CNN - Convolutional Layer, Hands on - Image Processing Techniques, Understanding a CNN - Striding and Pooling, Understanding a CNN - Pooling Layer, Understanding AlexNet and Building a CNN Model
+Quiz
+
+Who should Enroll : Professionals: Individuals looking to expand their skill set and leverage CV across different industries. Aspiring Students: For those setting out on their journey to master image data analysis and leave a mark in the tech world.
+
+Instructor name : Apoorv Vishnoi.
+
+Instructor designation : Head - Training Vertical, Analytics Vidhya.
+
+About the instructor : Apoorv is a seasoned AI professional with over 14 years of experience. He has founded companies, worked at start-ups and mentored start-ups at incubation cells.
+
+Key takeaways : Learn Computer Vision techniques and build real-world CV Models.Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.

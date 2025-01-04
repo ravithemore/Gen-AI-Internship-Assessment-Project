@@ -1,0 +1,17 @@
+Course title : Ace Data Science Interviews
+
+Title description : A comprehensive course covering different kinds of interviews in data science industry and how to ace these interviews. This includes technical interviews on data science / machine learning, case study interviews, guesstimate based interviews.
+
+Course description : Are you trying to get into data science roles but getting rejected by employers? Are you scared of getting into data science interviews? Or don't know what to expect in data science interviews? This is just the course you need.While you might know the tools and techniques in data science, clearing a data science interview might still prove very difficult. You need to show your problem solving skills and technical prowess in these data science interviews.This course has been created based on hundreds of interviews we have taken, companies we have helped in data science interviews and several data science experts in the industry.
+
+Course curriculum : Overview - Ace Data Science Interviews, Overview - The 7 step Data Science Interviews process, Step 1 - Understanding Roles, skills, Interviews Framework, Step 2 - Building Your Digital Presence, Step 3 - Building Resume and Applying for Jobs, Step 4 - Telephonic Interviews, Step 5 - Assignments, Step 6 - In Person Interview(s), Step 7 - Post Interview Follow ups
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Understand different roles existing in data science ecosystem(e.g.Data Scientist, Data Engineers, Data Analyst etc.). Learn what skill sets required for each of these roles. Understand different types of Interviews which happen in Data Science Industry. Tips and tricks to Ace your Data Science Interviews. How to build your digital presence including LinkedIn and GitHub profile. Learn the process to create a professional experience for data science roles. Framework to solve Guesstimates and case studies used in data science interviews.

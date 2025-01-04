@@ -1,0 +1,36 @@
+Course title : Big Mart Sales Prediction Using R
+
+Title description : This course is aimed for people getting started into Data Science and Machine Learning while solving the Big Mart Sales Prediction problem.
+
+Course description : Sales prediction is a very common real life problem that each company faces at least once in its life time. If done correctly, it can have a significant impact on the success and performance of that company. In this course you will be working on the Big Mart Sales Prediction Challenge. The course will equip you with the skills and techniques required to solve regression problems in R. You will be provided with sufficient theory and practice material to hone your predictive modeling skills.
+
+Course curriculum :
+Overview of the Course
+Table of contents
+Problem Statement
+Hypothesis Generation
+Loading Packages and Data
+Understanding the Data
+Univariate Analysis
+Bivariate Analysis
+Missing Value Treatment
+Feature Engineering
+Encoding Categorical Variables
+PreProcessing Data
+Model Building
+Linear Regression
+Regularized Linear Regression
+Random Forest
+XGBoost
+Summary
+AI&ML Blackbelt Plus Program (Sponsored)
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

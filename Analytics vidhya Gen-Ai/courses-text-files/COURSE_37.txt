@@ -1,0 +1,17 @@
+Course title : Certified Computer Vision Master's Program
+
+Title description : Get ready to become the Next-Gen Computer Vision Wizard - Accelerate your career in Computer Vision with this comprehensive program!
+
+Course description : We have designed this certified program for Computer Vision enthusiasts like you who are looking for a place to start. Computer Vision is currently among the hottest fields in the industry. The demand for computer vision experts is outstripping the supply! So you’ve picked the perfect time to get into this field. This comprehensive program powers you to become a computer vision expert. The beauty of this program is that it assumes no prior knowledge of concepts. We start from the ground up by learning the basics of Python, statistics, core machine learning algorithms & fundamentals of Deep Learning. Once your base is rock solid, jump over to the Computer Vision using Deep Learning course. It is designed to give you a taste of how the underlying techniques work in current State-of-the-Art Computer Vision systems, and walks you through remarkable Computer Vision applications in a hands-on manner so that you can create such solutions on your own. Object detection, Face detection, Image Classification, Image Segmentation, Image generation, and many others!. You can then combine your technical knowledge with the learning from the Ace Data Science Interviews course to land your dream job in data science & computer vision! The program consists of five comprehensive and rich courses curated exclusively by Analytics Vidhya.
+
+Course curriculum :
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Understand the basics of Python programming. How to use Python for Data Science. Learn core Machine Learning concepts required for Deep Learning. Key topics of Deep Learning such as Neural Networks, Forward and Backward Propogation. TensorFlow vs. PyTorch vs. Keras. Basics of Deep Learning. Implementing DL models in Keras and PyTorch. Learn how to solve Computer Vision problems using Deep Learning, including image classification, image generation and image segmentation. Work on various real-life projects. Build your deep learning portfolio for your dream industry role.

@@ -1,0 +1,17 @@
+Course title : A Comprehensive Learning Path to Become a Data Scientist in 2024\
+
+Title description : Want to become a data scientist this year, but confused about where to start and what to follow? This comprehensive learning path from Analytics Vidhya should provide you with all the answers you need!
+
+Course description : Where do I begin? Data science is such a huge field - where do you even start learning about Data Science? These are career-defining questions often asked by data science aspirants. There are a million resources out there to refer but the learning journey can be quite exhausting if you don’t know where to start. Don’t worry, we are here to help you take your first steps into the world of data science! Here’s the learning path for people who want to become a data scientist in 2023. We have arranged and compiled all the best resources in a structured manner so that you have a unified resource to become a successful data scientist. Moreover, we have added the most in-demand skills for the year 2023 for data scientists including storytelling, model deployment, and much more along with exercises and assignments.
+
+Course curriculum :Overview of the Learning Path 2024, January 2024: Data Science Toolkit, February 2024: Data Visualization, March 2024: Data Exploration, April 2024: Basics of Machine Learning and art of storytelling, May 2024: Advanced Machine Learning, June 2024: Other Machine Learning Concepts, July 2024: Introduction to Deep Learning and Computer Vision, August 2024: Basics of Natural Language Processing, September 2024: Model Deployment, October 2024: Practice and Projects
+
+Who should Enroll : The course is ideal for beginners in the field of Data Science.
+
+Instructor name : Kunal Jain
+
+Instructor designation : Founder & CEO, Analytics Vidhya
+
+About the instructor : Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+
+Key takeaways : Beginner friendly course: This is a beginner-friendly course and has no prerequisites. Curated list of resources to follow: All the necessary topics are covered in the course, in an orderly manner with links to relevant resources and hackathons. Updated skillset for 2023: The knowledge of Machine Learning models is important but that won’t set you apart. We have included some of the top unique skills you’ll require to become a data scientist in 2023. Assignments to test yourself: What’s the best way to test your knowledge? Each module comes with assignments and MCQs to give your memory a boost.

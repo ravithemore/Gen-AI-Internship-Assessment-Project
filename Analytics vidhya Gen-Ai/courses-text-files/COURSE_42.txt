@@ -1,0 +1,17 @@
+Course title : Data Science Career Conclave - Transition to Data Science!
+
+Title description : Here’s the perfect course to help you get all your data science career queries answered. Top data science experts expound on what they look for in a data science professional and how you can build those skills.
+
+Course description : It feels like half the world wants to move into data science these days, with spectacular perks and a plethora of openings on offer in the industry. Organizations are investing heavily in data science talent to stay or move ahead of their competitors. As a data science aspirant, you couldn’t have picked a better time to change your career! But this comes with its own set of challenges. We are often asked by folks about how they should transition into data science. People from all sorts of backgrounds – IT, Sales, Finance, HR, Healthcare, etc. – they all want a piece of the data science pie. In this exclusive course called the “Data Science Career Conclave”, Analytics Vidhya has brought together leading data science experts to share their view on a broad range of data science career topics.
+
+Course curriculum :Introduction to the Career Conclave,Different Roles in Data Science - Which Role is Right For You?, What are Hiring Managers Really Looking For?, How to Build your Digital Profile for Data Science, Panel Discussion: How can you Transition into Data Science in 12 Months?, AI&ML Blackbelt Plus Program (Sponsored).
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :Different Roles in Data Science - Which Role is Right for You?. What are Hiring Managers Really Looking For?. How to Build your Digital Profile for Data Science. Panel Discussion: How can you Transition into Data Science in 12 Months?. 

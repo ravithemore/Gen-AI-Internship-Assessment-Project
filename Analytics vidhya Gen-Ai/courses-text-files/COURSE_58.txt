@@ -1,0 +1,36 @@
+Course title :Fundamentals of Regression Analysis
+
+Title description :What is regression analysis? What are the different types of regression? What’s the difference between linear regression, logistic regression, ridge and lasso regression? This course on fundamentals of regression analysis will clear all your doubts!
+
+Course description :
+Learn all about Regression Analysis and the Different Types of Regression
+Linear regression and logistic regression are typically the first algorithms we learn in data science. These are two key concepts not just in machine learning, but in statistics as well.
+Due to their popularity, a lot of data science aspirants even end up thinking that they are the only forms of regression! Or at least linear regression and logistic regression are the most important among all forms of regression analysis.
+The truth, as always, lies somewhere in between. There are multiple types of regression apart from linear regression:
+Ridge regression
+Lasso regression
+Polynomial regression
+Stepwise regression, among others.
+Linear regression is just one part of the regression analysis umbrella. Each regression form has its own importance and a specific condition where they are best suited to apply.
+Regression analysis marks the first step in predictive modeling. The different types of regression techniques are widely popular because they’re easy to understand and implement using a programming language of your choice.
+
+Course curriculum :
+Welcome to the course!
+Introduction to Regression
+Types of Regression
+Linear Regression
+Logistic Regression
+Ridge Regression
+Lasso Regression
+Selecting the Right Model
+What next?
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

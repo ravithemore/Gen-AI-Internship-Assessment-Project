@@ -1,0 +1,15 @@
+Course title : Understanding Linear Regression - Free Course.
+
+Title description : Linear Regression is one of the foundational algorithms used in the industry to make predictions for regression problems. In this free course let us understand Linear Regression using a Business Case Study.
+
+Course description : This free course will help you understand the fundamentals of linear regression in a straightforward manner. By the end of this course, you will be able to build predictive models using linear regression techniques. With a carefully curated list of resources and exercises, this course serves as your comprehensive guide to mastering linear regression. 
+
+Course curriculum : Introduction to the Problem Statement, Resources for this Course, Introduction to Linear Regression, Significance of Slope and Intercept in the linear regression, How Model Decides The Best-Fit Line, Let’s Build a Simple Linear Regression Model, Model Understanding Using Descriptive Approach, Model Understanding Using Descriptive Approach - II, Model Building Using Predictive Approach, Quiz: Linear regression.
+
+Who should Enroll : Professionals: Individuals looking to expand their skill set and apply machine learning across different industries. Aspiring Students: For those setting out on their journey to mastering machine learning and making a mark in the tech world.
+
+Instructor name :
+Instructor designation :
+About the instructor :
+
+Key takeaways : Learn Linear Regression technique and build real-world Machine Learning Models. Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.

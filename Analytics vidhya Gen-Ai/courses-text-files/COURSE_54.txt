@@ -1,0 +1,57 @@
+Course title :Twitter Sentiment Analysis
+
+Title description :What is sentiment analysis? Why is sentiment analysis so popular in data science? And how can you perform sentiment analysis? Find the answers to all these questions in this free course on Sentiment Analysis using Python!
+
+Course description :
+What is Sentiment Analysis?
+Sentiment Analysis or Opinion Mining is a technique used to analyse the emotion in a text. We can extract the attitude or the opinion of a piece of text and get insights on it. 
+In the context of machine learning, you can think of Sentiment Analysis as a Classification problem where the text can either have a positive sentiment, a negative sentiment or a neutral one.
+What are the applications of Sentiment Analysis in the industry?
+In the age of social media, it is extremely common to comment about 
+a movie you liked or 
+a book you didn’t like or 
+a product you bought was not up to the mark.
+Therefore, a lot of companies use sentiment analysis for their products since it provides direct feedback of the customer’s opinion.
+It is also important to detect and remove hateful content from social media and companies like Twitter, Facebook, etc. extensively use sentiment analysis on a daily basis.
+On what kind of projects would I implement sentiment analysis?
+There are a wide variety of projects where you can use Sentiment Analysis. Here are a couple of popular use cases:
+Sentiment Analysis can not only be used for customer reviews or product feedback, but in other domains as well.
+Analyzing the sentiments on social media on the US Elections, for example, gives useful insights on which candidates are favoured by the public and which are not.
+What is the range of sentiments that can be observed and analysed?
+In the earlier days of Natural language processing and Sentiment Analysis, the sentiments could hold only 2 or 3 values: Positive or Negative, and Positive, Neutral or Negative.
+However, with the advent of deep learning, we can now recognize the subtle emotions in a text as well.
+This has made tasks like Sarcasm detection, fake news detection etc. popular in research areas of Natural language processing 
+Can I add this project to my resume and use it in my Interview?
+Sentiment Analysis is one of the most popular applications of Machine Learning and Classification in Natural language processing
+We also encourage you to take up more diverse datasets and apply sentiment analysis on them.
+Sentiment Analysis is also one of the first projects you would learn in your Natural language processing journey and as such is commonly asked in interviews.
+
+Course curriculum :
+Overview of the Course
+Understand the Problem Statement
+Table of Contents
+Loading Libraries and Data
+Data Inspection
+Data Cleaning
+Story Generation and Visualization from Tweets
+Bag-of-Words Features
+TF-IDF Features
+Word2Vec Features
+Modeling
+Logistic Regression
+Support Vector Machine (SVM)
+RandomForest
+XGBoost
+FineTuning XGBoost + Word2Vec
+Summary
+AI&ML Blackbelt Plus Program (Sponsored)
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

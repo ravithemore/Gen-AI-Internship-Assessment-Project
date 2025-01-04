@@ -1,0 +1,36 @@
+Course title :Learn Swift for Data Science
+
+Title description :Swift for Data Science introduces you to the wonderful world of the Swift programming language and how to use it for data science tasks. Swift is quickly being adopted by data science organizations so start your journey today.
+
+Course description :
+Your Guide to Learning Swift for Data Science from Scratch
+he Swift programming language is quickly becoming the language of choice for a lot of data science experts and professionals. Swift’s flexibility, ease of use, excellent documentation, and quick execution speed are key reasons behind the language’s recent prominence in the data science space.
+Swift is a more efficient, stable and secure programming language as compared to Python. In fact, Swift is also a good language to build for mobile. In fact, it’s the official language for developing iOS applications for the iPhone!
+The cherry on the cake for Swift? It has the support of the likes of Google, Apple, and FastAI behind it!
+“I always hope that when I start looking at a new language, there will be some mind-opening new ideas to find, and Swift definitely doesn’t disappoint. Swift tries to be expressive, flexible, concise, safe, easy to use, and fast. Most languages compromise significantly in at least one of these areas.” – Jeremy Howard
+And when Jeremy Howard endorses a language and starts using it for his daily data science work, you need to drop everything and listen.
+In this free course on Swift for Data Science, we will learn about Swift as a programming language and how it fits into the data science space. If you’re a Python user, you’ll notice the subtle differences and the incredible similarities between the two. We showcase Swift code as well in the course so get started!
+
+
+
+Course curriculum :
+Introduction
+Swift Basics for Data Analysis
+Machine Learning with Swift and TensorFlow
+Bonus Chapter: NLP Based iOS Apps uwing Swift
+What Next?
+
+Who should Enroll :
+The Swift for Data Science course is targeted towards anyone who:
+Wants to learn data science using a new but upcoming programming language
+Wants to learn the Swift programming language
+Is interested in exploring the world of data science
+Is curious to explore a new programming language beyond Python!
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

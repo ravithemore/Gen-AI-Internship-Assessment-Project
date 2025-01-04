@@ -1,0 +1,17 @@
+Course title : Gemini: Google's AI That Reads , Sees, Hears and Understands
+
+Title description : Master multimodal AI and learn neural architectures, implement transformers, and create advanced models step-by-step using PyTorch. Gain practical skills to build AI systems capable of reasoning across text, images, and video for real-world scenarios
+
+Course description : Develop higher-order skills in creating a Gemini-inspired multimodal AI system through this comprehensive guide. Apply foundational neural architecture concepts, analyze multimodal integration strategies, and evaluate efficient training methods. Guided by structured tutorials, synthesize your knowledge to design, implement, and assess advanced AI systems capable of reasoning across diverse modalities for real-world innovations.
+
+Course curriculum : Introduction, Intro to Gemini models, Function Calling with Gemini, Why Gen-AI, Are LLMs Really Intelligent, LLMs at Google- A brief history, Q&A Session.
+
+Who should Enroll : Individuals looking to enhance their skills in building advanced AI systems and understanding multimodal capabilities. Professionals and students eager to explore state-of-the-art neural architectures and expand their expertise in multimodal AI applications. Software Engineers and Data Scientists who wish to apply practical knowledge of AI model creation and optimization to solve real-world problems. Anyone passionate about AI advancements, eager to learn practical techniques for creating state-of-the-art NLP solutions.
+
+Instructor name : Aditya Rane
+
+Instructor designation :AI Consultant at Google | Gen AI Specialist | Teacher
+
+About the instructor : Aditya Rane is an accomplished AI professional with diverse experience spanning product development, consulting, software development, and IT support. He specializes in formulating and delivering high-impact solutions powered by artificial intelligence, leveraging his expertise to drive transformative outcomes. Aditya is deeply passionate about open-source software (OSS), reflecting his commitment to fostering innovation and collaboration within the tech community.
+
+Key takeaways : Understand transformer fundamentals with step-by-step guidance, including masked self-attention and position encoding. Build and train models using PyTorch, focusing on practical coding skills for NLP. Create a fully functional ChatGPT-style language model from scratch, ready for real-world use.

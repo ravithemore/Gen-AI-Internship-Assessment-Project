@@ -1,0 +1,44 @@
+Course title :Support Vector Machine (SVM) in Python and R
+
+Title description :What is a Support Vector Machine (SVM) in machine learning? How does an SVM classifier work? How you can design an SVM classifier in Python and R? Learn all about Support Vector Machines (SVM) in this free course for data scientists!
+
+Course description :
+Learn Support Vector Machines (SVM) in Python and R
+Want to learn the popular machine learning algorithm - Support Vector Machines (SVM)? Support Vector Machines can be used to build both Regression and Classification Machine Learning models.
+
+This free course will not only teach you basics of Support Vector Machines (SVM) and how it works, it will also tell you how to implement it in Python and R.
+
+This course on SVM would help you understand hyperplanes and Kernel tricks to leave you with one of the most popular machine learning algorithms at your disposal.
+
+Here are key questions you should know the answer to:
+Support Vector Machines (SVM) can be a tricky topic to learn if you aren’t asking the right questions. Here are a few key questions about SVM you should know:
+
+What is a Support Vector Machine (SVM)?
+Is SVM a must-know algorithm in machine learning?
+What kind of machine learning problems can I solve using SVM?
+Can I perform both classification and regression using SVM?
+What do I need to know before learning SVM?
+What is a SVM classifier?
+Can I rely on the Support Vector Machine algorithm in a Kaggle or DataHack hackathon?
+How difficult is it to learn SVM for a beginner in machine learning?
+What is a SVM kernel?
+
+Course curriculum :
+Introduction to Support Vector Machines
+How does SVM work?
+SVM Kernels and Hyperparameters
+Implementing SVM in Python
+Implementing SVM in R
+Challenges of SVM
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :Anyone who wants to start their machine learning career and is looking to learn the different machine learning algorithms
+Anyone who wants to become a data scientist or a machine learning engineer
+Anyone interested in learning how a classic machine learning algorithm like SVM works!

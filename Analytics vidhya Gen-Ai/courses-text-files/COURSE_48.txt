@@ -1,0 +1,17 @@
+Course title : Introductory Data Science for Business Managers
+
+Title description : This program is meant for Business Managers to understand Data Science and Machine Learning and be able to apply them to solve their Business Problems
+
+Course description :The data science revolution is well and truly disrupting multiple and diverse industries. It has become the centerpiece of strategic decision making for organizations. Are you prepared to enable it for your business and your current role?There is a serious shortage of decision-makers in the data science universe. While projects are springing up everywhere, the managers and leaders required to guide and mentor data science teams are rare to find. Data Science for Managers is a thoughtfully curated program designed especially for decision-makers. Whether you’re a manager, team leader, CxO or entrepreneur, you NEED to be data science educated. And this is the perfect program to get you there. You will get access to three of the most comprehensive courses in this certified program. Enable yourself, and your business, to be ready for the Artificial Intelligence revolution!
+
+Course curriculum :
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :Artificial Intelligence and Machine Learning for Business Leaders: The ultimate Artificial Intelligence & Machine Learning course for CxOs, Managers, Team Leaders and Entrepreneurs. ntroduction to Data Science: Every data science manager and leader should have a good hold on core data science techniques. This course will teach you the basics of the most popular data science language – Python, the basics of core statistics, and introduce you to the essential machine learning algorithms used in businesses today. Tableau 2.0 - Master Tableau from Scratch: Convert your data into actionable insights, create dashboards to impress your clients, and learn Tableau tips, tricks, and best practices for your analytics, business intelligence or data science role!.

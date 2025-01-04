@@ -1,0 +1,37 @@
+Course title :Ensemble Learning and Ensemble Learning Techniques
+
+Title description :Ensemble learning is a powerful machine learning technique every data scientist should know. But what is ensemble learning? How does ensemble learning work? This course is the perfect starting point to learn all about ensemble learning.
+
+Course description :
+A Comprehensive Course on Ensemble Learning
+Ensemble learning is a powerful machine learning algorithm that is used across industries by data science experts. The beauty of ensemble learning techniques is that they combine the predictions of multiple machine learning models.
+You must have used or come across several of these ensemble learning techniques in your machine learning journey:
+- Bagging
+- Boosting
+- Stacking
+- Blending, etc.
+These ensemble learning techniques include popular machine learning algorithms such as XGBoost, Gradient Boosting, among others. You must be getting a good idea of how vast and useful ensemble learning can be!
+
+Course curriculum :
+Introduction
+Basic Ensemble Learning Techniques
+Advanced Ensemble Learning Techniques
+Advanced Ensemble Learning: Bagging
+Advanced Ensemble Learning: Boosting
+What next?
+
+Who should Enroll :
+This course is designed for anyone who:
+Wants to learn about Ensemble Learning in Machine Learning
+Wants to expand their current machine learning skillset
+Is a newcomer to Machine Learning
+Is looking to ace machine learning hackathons
+Is passionate about machine learning!
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

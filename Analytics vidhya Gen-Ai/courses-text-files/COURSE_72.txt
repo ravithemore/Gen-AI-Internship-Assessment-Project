@@ -1,0 +1,33 @@
+Course title :Hypothesis Testing for Data Science and Analytics
+
+Title description :Hypothesis testing is one of the most fascinating steps data scientists perform and the most essential one! What is a hypothesis? How do I validate my hypothesis? Learn all the basics of hypothesis testing and how to implement them in your project!
+
+Course description :
+Statistics is the study of the collection, analysis, interpretation, presentation, and organisation of data. For all the data science and machine learning enthusiasts it is paramount to be well versed with various statistical concepts such as Hypothesis testing
+Every day we find ourselves testing new ideas, finding the fastest route to the office, the quickest way to finish our work, or simply finding a better way to do something we love. The critical question, then, is whether our idea is significantly better than what we tried previously.
+These ideas that we come up with on such a regular basis – that’s essentially what a hypothesis is. And testing these ideas to figure out which one works and which one is best left behind, is called hypothesis testing.
+
+Course curriculum :
+Introduction to the course
+Fundamentals of Hypothesis Testing
+What is the Z Test?
+What is the t-Test?
+Deciding between Z Test and T-Test
+Case Study: Hypothesis Testing for Coronavirus using Python
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :
+ You’ll get to learn all about
+Fundamentals of Hypothesis Testing: The course begins with a simple-to-understand example on hypothesis testing. This chapter will clear all your basics like - Null Hypothesis, Alternative Hypothesis, Type 1 Error, Type 2 Error, and Significance Level.
+p-value
+What is the Z Test? The course introduces the most basic type of testing a hypothesis - Z test. Z tests are a statistical way of testing. The chapter covers the one sample as well as the two sample Z test.
+What is the t-Test? The t-test is another test for validating the hypothesis. The chapter begins with a unique example and later covers both the one-sample and two-sample t-test.
+Deciding between the Z Test and t-Test Are you confused on how to use these tests? Don’t worry, the course comprises a simple step-by-step guide on choosing the best test for your experiment.
+Case Study: Hypothesis Testing for Coronavirus in Python You’ll get to put your theoretical knowledge into practice and see how well you can do. You will get to work on a hypothesis testing case study on the corona virus dataset in Python!

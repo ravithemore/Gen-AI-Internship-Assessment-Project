@@ -1,0 +1,17 @@
+Course title : A Comprehensive Learning Path to Become a Data Engineer in 2022
+
+Title description : Want to become a data engineer this year, but confused about where to start and what to follow? This comprehensive learning path from Analytics Vidhya should provide you with all the answers you need!
+
+Course description : Where do I begin? Data Engineering is such a huge field - where do you even start learning about Data Engineering? These are career-defining questions often asked by data engineering aspirants. There are a million resources out there to refer but the learning journey can be quite exhausting if you don’t know where to start. Don’t worry, we are here to help you take your first steps into the world of data engineering! Here’s the learning path for people who want to become a data engineer in 2022. We have arranged and compiled all the best resources in a structured manner so that you have a unified resource to become a successful data engineer. Moreover, we have added the most in-demand skills for the year 2022 for data engineers including storytelling, model deployment, and much more along with exercises and assignments. 
+
+Course curriculum : Overview of Learning Path 2022, January 2022: Learn Programming, February 2022: Learn Relational Databases, March 2022: Fundamentals of Linux and Cloud Computing, April 2022 : NoSQL Databases, May 2022: Hadoop Ecosystem, June 2022: Data Warehousing.
+
+Who should Enroll : The course is ideal for beginners in the field of Data Engineering
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways : Beginner friendly course: The course assumes no prerequisites and is meant for beginners. Curated list of resources to follow: All the necessary topics are covered in the course, in an orderly manner with links to relevant resources. Updated skillset for 2022: The knowledge of Data Engineering is important but that won’t set you apart. We have included some of the top unique skills you’ll require to become a data engineer in 2022.

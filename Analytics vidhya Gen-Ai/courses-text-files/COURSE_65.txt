@@ -1,0 +1,28 @@
+Course title :Naive Bayes from Scratch
+
+Title description :Naive Bayes is a popular and widely used machine learning algorithm for classification problems. Learn what is Naive Bayes, how a Naive Bayes classifier works, and implement Naive Bayes yourself in this course!
+
+Course description :
+Learning Naive Bayes from Scratch for Machine Learning
+Naive Bayes ranks in the top echelons of the machine learning algorithms pantheon. It is a popular and widely used machine learning algorithm and is often the go-to technique when dealing with classification problems.
+The beauty of Naive Bayes lies in it’s incredible speed. You’ll soon see how fast the Naive Bayes algorithm works as compared to other classification algorithms. It works on the Bayes theorem of probability to predict the class of unknown datasets. You’ll learn all about this inside the course!
+So whether you’re trying to solve a classic HR analytics problem like predicting who gets promoted, or you’re aiming to predict loan default - the Naive Bayes algorithm will get you on your way.
+
+Course curriculum :
+Probability
+The Naive Bayes Algorithm
+What Next?
+
+Who should Enroll :
+This course is for anyone who:
+Wants to learn the Naive Bayes algorithm from scratch
+Wants to expand their skillset to learn a popular machine learning algorithm
+Is curious about solving a classification problem using a different approach
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

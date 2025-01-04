@@ -1,0 +1,78 @@
+Course title :Introduction to Python
+
+Title description :Power up your career with the best and most popular data science language, Python. Leverage your Python skills to start your Data Science journey. This course is intended for beginners with no coding or Data Science background.
+
+Course description :
+Learn Python for Data Science
+Do you want to enter the field of Data Science? Are you intimidated by the coding you would need to learn? Are you looking to learn Python to switch to a data science career?
+
+You have come to just the right place!
+
+Most industry experts recommend starting your Data Science journey with Python
+Across biggest companies and startups, Python is the most used language for Data Science and Machine Learning Projects
+Stackoverflow survey for 2019 had Python outrank Java in the list of most loved languages
+Python is a very versatile language since it has a wide array of functionalities already available. The sheer range of functionalities might sound too exhaustive and complicated, you don’t need to be well-versed with them all.
+
+Most data scientists have a few go-to libraries for their daily tasks like:
+
+for performing data cleaning and analysis - pandas
+for basic statistical tools – numpy, scipy
+for data visualization – matplotlib, seaborn
+Why Python and how popular is it for Data Science?
+Python has rapidly become the go-to language in the data science space and is among the first things recruiters search for in a data scientist's skill set.
+It consistently ranks top in global data science surveys and its widespread popularity will only keep on increasing in the coming years.
+Over the years, with strong community support, this language has obtained a dedicated library for data analysis and predictive modelling.
+
+
+This python data science course will help you learn Python libraries like Pandas and use them efficiently for data science and data analysis. Are you ready to power up your career and learn the best data science language?
+
+What does a Data Scientist do?
+Data Science is an amalgamation of Statistics, Computer Science and specific domain knowledge.
+As more and more data gets generated across the world, we need to leverage it to make decisions and improve them.
+A data scientist performs operations on the data provided to analyze and interpret it.
+Which companies use Python?
+Many of the biggest and most popular companies use Python. Some of them are:
+
+Google, NASA, Amazon
+Social networking sites like Instagram, Reddit, Quora, etc
+Media streaming companies like Netflix and Spotify
+Rideshare companies like Uber and Lyft
+“Python has been an important part of Google since the beginning and remains so as the system grows and evolves. Today dozens of Google engineers use Python, and we are looking for more people with skills in this language.”
+
+ - Peter Norvig, Director of Research at Google Inc.
+
+So get onboard the Data Science train by learning Python and upskill yourself with one of the Top Data Science Courses offered by Analytics Vidhya!
+
+Course curriculum :
+
+Overview of the Course
+Introduction to Python
+Understanding Operators
+Variables and Data Type
+Conditional Statements
+Looping Constructs
+Functions
+Data Structure
+Lists
+Dictionaries
+Understanding Standard Libraries in Python
+Reading a CSV File in Python
+Data Frames and basic operations with Data Frames
+Indexing a Data Frame
+Data Manipulation and Visualization
+Regular Expressions
+Cheatsheet for Python
+Evaluate
+Feedback
+Where to go from here?.
+
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

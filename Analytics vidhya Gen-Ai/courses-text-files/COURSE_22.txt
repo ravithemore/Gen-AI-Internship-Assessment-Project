@@ -1,0 +1,17 @@
+Course title : Exploring Stability.AI - Free Course.
+
+Title description : Explore Stability.AI with this free course providing hands-on experience. Learn to deploy SD WebUI, use Automatic WebUI on RunPod GPU environments, and master installation, setup, generation, and customization of SD.
+
+Course description : This course will give you a practical understanding of Stability.AI tools. By the end of the course, you will be able to deploy and customize SD WebUI, and use the Automatic1111 WebUI on RunPod GPU environments. You'll learn to install, set up, generate, and fine-tune SD WebUI settings, equipping you with the skills to harness Stability.AI's full potential for your projects.
+
+Course curriculum : Introduction to Stability, How to use Stability.AI tools, Review of Deployment Options for SD WebUI, Automatic1111 WebUI on RunPod GPU environment, SD WebUI Hands-On - Installation and Setup, SD WebUI Hands-On - Generation and Settings, Quiz.
+
+Who should Enroll : Professionals: Individuals aiming to enhance their skill set and apply Stability.AI tools/Stable Diffusion in various fields. Aspiring Students: Those beginning their journey to mastering Generative AI tool deployment and customization, looking to make an impact in the evolving world of Generative AI.
+
+Instructor name : Sandeep Singh.
+
+Instructor designation : Expert Senior Director, Bain & Company.
+
+About the instructor : Sandeep Singh, expert senior director at Bain & Company is a leader in AI and Computer Vision. He has pioneered advanced geospatial solutions in Silicon Valley, enhancing mapping, navigation, and sector-wide applications.
+
+Key takeaways : Learn to effectively use and customize SD WebUI and the Automatic1111 WebUI. Hands-On Experience: Engage in practical exercises to reinforce learning and apply concepts, ensuring you gain the skills to utilize Stability.AI tools confidently.

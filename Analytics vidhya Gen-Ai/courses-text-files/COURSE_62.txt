@@ -1,0 +1,30 @@
+Course title :K-Nearest Neighbors (KNN) Algorithm in Python and R
+
+Title description :A practical hands-on tutorial on the K-Nearest Neighbor (KNN) algorithm in both Python and R. This course covers everything you want to learn about KNN, including understanding how the KNN algorithm works and how to implement it.
+
+Course description :
+Learn all about the K-Nearest Neighbor (KNN) Algorithm in Machine Learning
+K-Nearest Neighbor (KNN) is one of the most popular machine learning algorithms. As a newcomer or beginner in machine learning, you’ll find KNN to be among the easiest algorithms to pick up.
+And despite its simplicity, KNN has proven to be incredibly effective at certain tasks in machine learning.
+The KNN algorithm is simple to understand, easy to explain and perfect to demonstrate to a non-technical audience (that’s why stakeholders love it!). That’s a key reason why it’s widely used in the industry and why you should know how the algorithm works.
+
+Course curriculum :
+Introduction
+K-NEAREST NEIGHBOUR
+Steps to Build a K-NEAREST NEIGHBOUR Model
+Implementation in Python and R
+What's Next?
+
+Who should Enroll :
+This course is for anyone who:
+Wants to learn about the popular KNN algorithm and how it works
+Wants to get started with machine learning algorithm
+Is curious about the different algorithms in machine learning
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :

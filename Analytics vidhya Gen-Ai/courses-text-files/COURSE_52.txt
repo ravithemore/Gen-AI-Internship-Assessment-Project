@@ -1,0 +1,36 @@
+Course title : Loan Prediction Practice Problem (Using Python)
+
+Title description : This course is aimed for people getting started into Data Science and Machine Learning while working on a real life practical problem.
+
+Course description : This course is designed for people who want to solve binary classification problems. Classification is a skill every Data Scientist should be well versed in.
+
+In this course, we are solving a real life case study of Dream Housing Finance. The company deals in all home loans. They have a presence across all urban, semi-urban and rural areas. Customers first apply for a home loan after that company validates the customer's eligibility. The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling online application form.
+
+Course curriculum :
+Introduction to the Course
+Table of Contents
+Problem Statement
+Hypothesis Generation
+Exercise 2 | Discussion
+Getting the system ready and loading the data
+Understanding the Data
+Univariate Analysis
+Bivariate Analysis
+Missing Value and Outlier Treatment
+Evaluation Metrics for Classification Problems
+Model Building : Part I
+Logistic Regression using stratified k-folds cross validation
+Feature Engineering
+Model Building : Part II
+AI&ML Blackbelt Plus Program (Sponsored)
+
+Who should Enroll :
+
+Instructor name :
+
+Instructor designation :
+
+About the instructor :
+
+Key takeaways :
+By the end of the course, you will have a solid understanding of Classification problem and Various approaches to solve the probem

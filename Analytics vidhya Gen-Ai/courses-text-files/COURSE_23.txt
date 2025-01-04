@@ -1,0 +1,17 @@
+Course title : Building a Text Classification Model with Natural Language Processing - Free Course.
+
+Title description : Explore the essentials of NLP with our comprehensive course! Learn text classification, NLP models with PyTorch, and real-world applications. Perfect for beginners and professionals alike, dive into AI-driven text analysis and hands-on projects.
+
+Course description : Gain practical insights into Natural Language Processing (NLP) with our comprehensive course. Learn to build NLP models using PyTorch, delve into classification models, and apply techniques like bag-of-words, count vectorizer and so on. Perfect for professionals seeking to enhance their skills and aspiring students entering the tech industry.
+
+Course curriculum : Introduction to NLP, Building a basic classification model.
+
+Who should Enroll : Professionals: Expand your skill set with NLP for real-world applications in diverse industries. Aspiring Students: Master text data analysis and kickstart your career in AI and NLP.
+
+Instructor name : Apoorv Vishnoi.
+
+Instructor designation : Head - Training Vertical, Analytics Vidhya.
+
+About the instructor : Apoorv is a seasoned AI professional with over 14 years of experience. He has founded companies, worked at start-ups and mentored start-ups at incubation cells.
+
+Key takeaways : Acquire practical skills in building NLP models using PyTorch. Acquire practical skills in building NLP models using PyTorch.
