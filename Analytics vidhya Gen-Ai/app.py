@@ -9,7 +9,7 @@ QDRANT_API_KEY = "J3LJcoG3q_njIvu9OzjooR2VBD-tx_Zz553gGwMoUD_xzdYz1tFufA"
 QDRANT_COLLECTION_NAME = "courses-data"
 
 # Google Gemini API details
-GEMINI_API_KEY = "AIzaSyCUEWMuE3mPH3Aui55MK0PKaJxYyBPrFMY"
+GEMINI_API_KEY = "API KEY"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
